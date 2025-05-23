@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+streamlit
+langchain
+langchain-openai
+openai
+faiss-cpu
+tiktoken
+python-dotenv
+pandas
+PyPDF2
+numpy
+pydantic
+tqdm
+markdown2
+watchdog
+=======
+langchain
+langchain-openai
+openai
+numpy
+tqdm
+pydantic
+streamlit
+chromadb
+pandas
+langchain_community
+>>>>>>> ed68b2e3fd133a2cefa6575a3404c6442325413a
