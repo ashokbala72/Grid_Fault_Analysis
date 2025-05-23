@@ -1,0 +1,2001 @@
+timestamp,substation,event_type,fault_code,load_MW
+2025-04-22 07:08:37,Substation-7,Overload,OL-799,139.52
+2025-04-22 07:17:37,Substation-2,Frequency Drift,FD-112,118.31
+2025-04-22 07:22:37,Substation-1,Frequency Drift,FD-112,141.12
+2025-04-22 07:27:37,Substation-6,Normal,,125.13
+2025-04-22 07:32:37,Substation-2,Overvoltage,OV-501,78.42
+2025-04-22 07:41:37,Substation-2,Overload,OL-799,177.05
+2025-04-22 07:45:37,Substation-9,Normal,,161.67
+2025-04-22 07:45:37,Substation-2,Frequency Drift,FD-112,151.87
+2025-04-22 07:47:37,Substation-8,Normal,,142.91
+2025-04-22 07:53:37,Substation-9,Transformer Overheat,TR-210,197.57
+2025-04-22 08:08:37,Substation-6,Normal,,79.89
+2025-04-22 08:10:37,Substation-6,Normal,,172.53
+2025-04-22 09:04:37,Substation-2,Overload,OL-799,185.79
+2025-04-22 09:11:37,Substation-10,Breaker Tripped,BR-305,189.59
+2025-04-22 09:12:37,Substation-9,Overload,OL-799,84.0
+2025-04-22 09:18:37,Substation-7,Line Fault,LF-388,115.25
+2025-04-22 09:22:37,Substation-5,Normal,,72.07
+2025-04-22 09:42:37,Substation-10,Normal,,86.63
+2025-04-22 09:42:37,Substation-2,Breaker Tripped,BR-305,96.59
+2025-04-22 09:50:37,Substation-10,Overvoltage,OV-501,165.97
+2025-04-22 10:17:37,Substation-10,Normal,,104.89
+2025-04-22 10:23:37,Substation-2,Line Fault,LF-388,155.37
+2025-04-22 10:28:37,Substation-5,Frequency Drift,FD-112,144.08
+2025-04-22 10:32:37,Substation-4,Normal,,177.33
+2025-04-22 10:53:37,Substation-3,Normal,,142.7
+2025-04-22 11:03:37,Substation-4,Undervoltage,UV-402,83.67
+2025-04-22 11:08:37,Substation-5,Normal,,197.07
+2025-04-22 11:21:37,Substation-2,Overvoltage,OV-501,50.42
+2025-04-22 11:37:37,Substation-7,Normal,,88.68
+2025-04-22 12:02:37,Substation-1,Normal,,199.56
+2025-04-22 12:04:37,Substation-10,Overload,OL-799,181.01
+2025-04-22 12:07:37,Substation-6,Normal,,54.3
+2025-04-22 12:27:37,Substation-1,Breaker Tripped,BR-305,110.44
+2025-04-22 12:54:37,Substation-4,Transformer Overheat,TR-210,193.11
+2025-04-22 12:57:37,Substation-1,Normal,,102.88
+2025-04-22 13:01:37,Substation-2,Transformer Overheat,TR-210,123.36
+2025-04-22 13:04:37,Substation-10,Overvoltage,OV-501,102.3
+2025-04-22 13:28:37,Substation-7,Normal,,94.12
+2025-04-22 13:55:37,Substation-3,Transformer Overheat,TR-210,116.49
+2025-04-22 13:55:37,Substation-5,Line Fault,LF-388,169.41
+2025-04-22 13:57:37,Substation-9,Frequency Drift,FD-112,152.89
+2025-04-22 14:14:37,Substation-9,Transformer Overheat,TR-210,137.67
+2025-04-22 14:23:37,Substation-2,Undervoltage,UV-402,186.09
+2025-04-22 14:32:37,Substation-9,Line Fault,LF-388,138.77
+2025-04-22 14:43:37,Substation-8,Normal,,150.82
+2025-04-22 14:48:37,Substation-5,Normal,,70.43
+2025-04-22 14:57:37,Substation-1,Normal,,150.63
+2025-04-22 15:04:37,Substation-9,Normal,,52.12
+2025-04-22 15:12:37,Substation-9,Normal,,89.65
+2025-04-22 15:16:37,Substation-1,Normal,,119.71
+2025-04-22 15:21:37,Substation-5,Normal,,99.09
+2025-04-22 15:29:37,Substation-6,Normal,,175.16
+2025-04-22 15:47:37,Substation-10,Undervoltage,UV-402,87.9
+2025-04-22 16:04:37,Substation-4,Normal,,146.53
+2025-04-22 16:26:37,Substation-6,Normal,,107.43
+2025-04-22 16:31:37,Substation-9,Frequency Drift,FD-112,80.86
+2025-04-22 16:34:37,Substation-10,Normal,,78.53
+2025-04-22 16:35:37,Substation-7,Breaker Tripped,BR-305,184.97
+2025-04-22 16:42:37,Substation-5,Overvoltage,OV-501,172.52
+2025-04-22 16:59:37,Substation-8,Overload,OL-799,67.32
+2025-04-22 17:05:37,Substation-8,Normal,,187.62
+2025-04-22 17:21:37,Substation-7,Normal,,188.46
+2025-04-22 17:38:37,Substation-2,Normal,,81.7
+2025-04-22 17:50:37,Substation-8,Normal,,112.86
+2025-04-22 18:03:37,Substation-1,Line Fault,LF-388,85.62
+2025-04-22 18:23:37,Substation-5,Line Fault,LF-388,169.9
+2025-04-22 18:30:37,Substation-7,Overvoltage,OV-501,175.93
+2025-04-22 18:54:37,Substation-1,Line Fault,LF-388,119.29
+2025-04-22 18:58:37,Substation-5,Normal,,108.12
+2025-04-22 19:09:37,Substation-1,Normal,,113.01
+2025-04-22 19:23:37,Substation-7,Normal,,92.13
+2025-04-22 19:23:37,Substation-9,Frequency Drift,FD-112,137.31
+2025-04-22 19:31:37,Substation-2,Transformer Overheat,TR-210,107.93
+2025-04-22 20:03:37,Substation-4,Normal,,151.8
+2025-04-22 20:05:37,Substation-4,Normal,,167.2
+2025-04-22 20:07:37,Substation-1,Overload,OL-799,136.26
+2025-04-22 20:13:37,Substation-10,Normal,,155.57
+2025-04-22 20:13:37,Substation-7,Normal,,63.56
+2025-04-22 20:15:37,Substation-4,Normal,,77.74
+2025-04-22 20:15:37,Substation-6,Overvoltage,OV-501,178.63
+2025-04-22 20:22:37,Substation-2,Frequency Drift,FD-112,54.87
+2025-04-22 20:24:37,Substation-9,Transformer Overheat,TR-210,86.18
+2025-04-22 20:43:37,Substation-7,Breaker Tripped,BR-305,129.46
+2025-04-22 20:49:37,Substation-5,Normal,,139.23
+2025-04-22 21:14:37,Substation-5,Overvoltage,OV-501,98.98
+2025-04-22 21:22:37,Substation-6,Undervoltage,UV-402,124.27
+2025-04-22 21:37:37,Substation-7,Normal,,74.74
+2025-04-22 21:40:37,Substation-3,Line Fault,LF-388,108.72
+2025-04-22 21:40:37,Substation-5,Overload,OL-799,176.66
+2025-04-22 21:42:37,Substation-1,Overvoltage,OV-501,130.77
+2025-04-22 22:27:37,Substation-2,Normal,,191.75
+2025-04-22 22:42:37,Substation-1,Normal,,56.7
+2025-04-22 22:58:37,Substation-6,Normal,,177.8
+2025-04-22 23:21:37,Substation-2,Undervoltage,UV-402,130.81
+2025-04-22 23:26:37,Substation-4,Line Fault,LF-388,183.01
+2025-04-22 23:29:37,Substation-6,Undervoltage,UV-402,59.09
+2025-04-22 23:34:37,Substation-5,Overvoltage,OV-501,119.4
+2025-04-22 23:38:37,Substation-2,Normal,,75.19
+2025-04-22 23:46:37,Substation-2,Undervoltage,UV-402,84.13
+2025-04-23 00:08:37,Substation-7,Frequency Drift,FD-112,160.23
+2025-04-23 00:09:37,Substation-3,Normal,,172.86
+2025-04-23 00:19:37,Substation-3,Normal,,155.0
+2025-04-23 00:21:37,Substation-9,Normal,,172.9
+2025-04-23 00:23:37,Substation-1,Normal,,186.64
+2025-04-23 00:25:37,Substation-2,Breaker Tripped,BR-305,169.16
+2025-04-23 00:34:37,Substation-8,Overvoltage,OV-501,96.36
+2025-04-23 00:37:37,Substation-5,Normal,,60.6
+2025-04-23 00:40:37,Substation-9,Frequency Drift,FD-112,132.59
+2025-04-23 00:48:37,Substation-6,Normal,,132.72
+2025-04-23 00:51:37,Substation-5,Breaker Tripped,BR-305,50.65
+2025-04-23 00:56:37,Substation-3,Normal,,171.63
+2025-04-23 01:02:37,Substation-2,Line Fault,LF-388,175.48
+2025-04-23 01:04:37,Substation-3,Overload,OL-799,180.83
+2025-04-23 01:21:37,Substation-7,Normal,,184.71
+2025-04-23 01:24:37,Substation-7,Normal,,122.01
+2025-04-23 01:25:37,Substation-4,Overvoltage,OV-501,180.8
+2025-04-23 01:28:37,Substation-7,Normal,,136.7
+2025-04-23 01:29:37,Substation-3,Normal,,69.52
+2025-04-23 01:50:37,Substation-10,Normal,,152.01
+2025-04-23 01:56:37,Substation-7,Normal,,153.44
+2025-04-23 01:57:37,Substation-1,Normal,,99.43
+2025-04-23 01:58:37,Substation-4,Transformer Overheat,TR-210,90.72
+2025-04-23 02:00:37,Substation-9,Normal,,99.44
+2025-04-23 02:06:37,Substation-9,Normal,,91.06
+2025-04-23 02:12:37,Substation-6,Normal,,177.36
+2025-04-23 02:15:37,Substation-9,Normal,,179.93
+2025-04-23 02:32:37,Substation-4,Breaker Tripped,BR-305,147.56
+2025-04-23 02:47:37,Substation-2,Line Fault,LF-388,68.24
+2025-04-23 02:55:37,Substation-2,Breaker Tripped,BR-305,75.82
+2025-04-23 03:20:37,Substation-9,Normal,,70.37
+2025-04-23 03:23:37,Substation-6,Normal,,54.52
+2025-04-23 03:27:37,Substation-6,Line Fault,LF-388,89.52
+2025-04-23 03:52:37,Substation-3,Normal,,193.21
+2025-04-23 03:54:37,Substation-8,Normal,,124.09
+2025-04-23 03:54:37,Substation-8,Normal,,120.77
+2025-04-23 04:05:37,Substation-4,Breaker Tripped,BR-305,149.13
+2025-04-23 04:16:37,Substation-4,Normal,,191.17
+2025-04-23 04:19:37,Substation-2,Breaker Tripped,BR-305,150.42
+2025-04-23 04:26:37,Substation-4,Transformer Overheat,TR-210,171.42
+2025-04-23 04:31:37,Substation-7,Normal,,91.6
+2025-04-23 04:32:37,Substation-3,Overvoltage,OV-501,144.54
+2025-04-23 04:33:37,Substation-2,Line Fault,LF-388,76.79
+2025-04-23 04:44:37,Substation-7,Normal,,113.12
+2025-04-23 04:46:37,Substation-6,Normal,,183.29
+2025-04-23 04:51:37,Substation-1,Line Fault,LF-388,150.64
+2025-04-23 05:02:37,Substation-5,Normal,,51.42
+2025-04-23 05:09:37,Substation-9,Normal,,178.02
+2025-04-23 05:15:37,Substation-9,Breaker Tripped,BR-305,175.95
+2025-04-23 05:35:37,Substation-2,Normal,,61.1
+2025-04-23 05:37:37,Substation-5,Normal,,84.02
+2025-04-23 05:57:37,Substation-4,Breaker Tripped,BR-305,81.56
+2025-04-23 05:58:37,Substation-6,Normal,,142.63
+2025-04-23 06:05:37,Substation-6,Overvoltage,OV-501,88.06
+2025-04-23 06:32:37,Substation-4,Undervoltage,UV-402,191.59
+2025-04-23 06:36:37,Substation-5,Normal,,114.3
+2025-04-23 06:48:37,Substation-10,Normal,,196.82
+2025-04-23 06:55:37,Substation-10,Normal,,138.69
+2025-04-23 06:57:37,Substation-1,Frequency Drift,FD-112,145.26
+2025-04-23 07:02:37,Substation-10,Normal,,139.85
+2025-04-23 07:02:37,Substation-1,Normal,,133.79
+2025-04-23 07:04:37,Substation-8,Normal,,145.83
+2025-04-23 07:05:37,Substation-7,Overload,OL-799,145.97
+2025-04-23 07:09:37,Substation-5,Overvoltage,OV-501,172.1
+2025-04-23 07:20:37,Substation-5,Breaker Tripped,BR-305,104.19
+2025-04-23 07:56:37,Substation-4,Line Fault,LF-388,53.82
+2025-04-23 07:56:37,Substation-3,Frequency Drift,FD-112,152.49
+2025-04-23 07:57:37,Substation-7,Normal,,91.07
+2025-04-23 08:02:37,Substation-6,Frequency Drift,FD-112,104.77
+2025-04-23 08:03:37,Substation-6,Normal,,136.66
+2025-04-23 08:16:37,Substation-10,Frequency Drift,FD-112,193.46
+2025-04-23 08:30:37,Substation-9,Normal,,60.22
+2025-04-23 08:39:37,Substation-10,Normal,,180.15
+2025-04-23 08:40:37,Substation-4,Frequency Drift,FD-112,185.37
+2025-04-23 08:59:37,Substation-6,Frequency Drift,FD-112,187.49
+2025-04-23 09:39:37,Substation-3,Overvoltage,OV-501,164.19
+2025-04-23 10:16:37,Substation-7,Breaker Tripped,BR-305,87.35
+2025-04-23 10:19:37,Substation-6,Overvoltage,OV-501,134.63
+2025-04-23 10:20:37,Substation-2,Normal,,79.62
+2025-04-23 10:21:37,Substation-10,Overvoltage,OV-501,119.15
+2025-04-23 10:26:37,Substation-2,Overvoltage,OV-501,112.45
+2025-04-23 10:28:37,Substation-1,Overvoltage,OV-501,103.33
+2025-04-23 10:30:37,Substation-6,Normal,,109.43
+2025-04-23 10:36:37,Substation-4,Overload,OL-799,77.28
+2025-04-23 10:37:37,Substation-4,Normal,,85.55
+2025-04-23 10:52:37,Substation-7,Normal,,116.58
+2025-04-23 10:55:37,Substation-4,Transformer Overheat,TR-210,69.76
+2025-04-23 10:57:37,Substation-2,Normal,,101.94
+2025-04-23 11:08:37,Substation-5,Line Fault,LF-388,118.08
+2025-04-23 11:14:37,Substation-6,Undervoltage,UV-402,170.85
+2025-04-23 11:16:37,Substation-6,Undervoltage,UV-402,101.26
+2025-04-23 11:18:37,Substation-3,Line Fault,LF-388,106.16
+2025-04-23 11:20:37,Substation-5,Transformer Overheat,TR-210,65.55
+2025-04-23 11:21:37,Substation-7,Undervoltage,UV-402,110.95
+2025-04-23 11:26:37,Substation-8,Overload,OL-799,122.93
+2025-04-23 11:32:37,Substation-4,Frequency Drift,FD-112,55.95
+2025-04-23 11:32:37,Substation-6,Undervoltage,UV-402,158.08
+2025-04-23 11:32:37,Substation-5,Normal,,134.96
+2025-04-23 11:35:37,Substation-9,Normal,,108.85
+2025-04-23 11:41:37,Substation-3,Normal,,181.98
+2025-04-23 11:55:37,Substation-9,Normal,,80.22
+2025-04-23 12:09:37,Substation-8,Normal,,174.08
+2025-04-23 12:40:37,Substation-1,Overvoltage,OV-501,174.49
+2025-04-23 12:55:37,Substation-10,Normal,,112.1
+2025-04-23 13:01:37,Substation-6,Frequency Drift,FD-112,78.12
+2025-04-23 13:08:37,Substation-1,Line Fault,LF-388,192.88
+2025-04-23 13:40:37,Substation-8,Normal,,132.59
+2025-04-23 13:52:37,Substation-2,Line Fault,LF-388,65.98
+2025-04-23 14:15:37,Substation-7,Normal,,89.08
+2025-04-23 14:23:37,Substation-10,Normal,,52.44
+2025-04-23 14:34:37,Substation-8,Normal,,127.67
+2025-04-23 14:49:37,Substation-10,Line Fault,LF-388,68.95
+2025-04-23 15:49:37,Substation-7,Transformer Overheat,TR-210,103.27
+2025-04-23 15:58:37,Substation-1,Breaker Tripped,BR-305,52.4
+2025-04-23 16:00:37,Substation-2,Overload,OL-799,82.68
+2025-04-23 16:00:37,Substation-1,Undervoltage,UV-402,63.55
+2025-04-23 16:17:37,Substation-9,Undervoltage,UV-402,129.63
+2025-04-23 16:25:37,Substation-6,Normal,,124.1
+2025-04-23 16:27:37,Substation-7,Undervoltage,UV-402,62.29
+2025-04-23 16:29:37,Substation-2,Frequency Drift,FD-112,172.99
+2025-04-23 17:02:37,Substation-2,Line Fault,LF-388,115.81
+2025-04-23 17:13:37,Substation-5,Line Fault,LF-388,145.7
+2025-04-23 17:15:37,Substation-5,Overvoltage,OV-501,96.19
+2025-04-23 17:22:37,Substation-10,Undervoltage,UV-402,136.19
+2025-04-23 17:40:37,Substation-9,Undervoltage,UV-402,94.58
+2025-04-23 18:07:37,Substation-6,Overload,OL-799,106.69
+2025-04-23 18:20:37,Substation-9,Breaker Tripped,BR-305,50.1
+2025-04-23 18:30:37,Substation-8,Line Fault,LF-388,105.22
+2025-04-23 18:30:37,Substation-8,Normal,,170.48
+2025-04-23 18:47:37,Substation-10,Transformer Overheat,TR-210,125.99
+2025-04-23 19:05:37,Substation-6,Normal,,195.33
+2025-04-23 19:05:37,Substation-8,Normal,,149.53
+2025-04-23 19:25:37,Substation-1,Normal,,109.19
+2025-04-23 19:30:37,Substation-6,Transformer Overheat,TR-210,150.02
+2025-04-23 19:39:37,Substation-9,Transformer Overheat,TR-210,85.79
+2025-04-23 20:05:37,Substation-4,Overvoltage,OV-501,86.43
+2025-04-23 20:15:37,Substation-5,Undervoltage,UV-402,181.54
+2025-04-23 20:21:37,Substation-1,Normal,,143.29
+2025-04-23 20:21:37,Substation-7,Overvoltage,OV-501,107.67
+2025-04-23 20:27:37,Substation-2,Overvoltage,OV-501,98.95
+2025-04-23 21:00:37,Substation-9,Undervoltage,UV-402,141.2
+2025-04-23 21:08:37,Substation-5,Line Fault,LF-388,65.03
+2025-04-23 21:31:37,Substation-2,Normal,,99.04
+2025-04-23 21:32:37,Substation-7,Transformer Overheat,TR-210,189.8
+2025-04-23 21:34:37,Substation-8,Overload,OL-799,115.38
+2025-04-23 21:35:37,Substation-5,Undervoltage,UV-402,134.38
+2025-04-23 21:37:37,Substation-10,Undervoltage,UV-402,111.09
+2025-04-23 21:44:37,Substation-4,Normal,,193.64
+2025-04-23 21:46:37,Substation-9,Normal,,122.21
+2025-04-23 21:50:37,Substation-2,Breaker Tripped,BR-305,191.91
+2025-04-23 21:51:37,Substation-1,Normal,,140.24
+2025-04-23 21:57:37,Substation-7,Breaker Tripped,BR-305,69.46
+2025-04-23 22:08:37,Substation-2,Normal,,187.9
+2025-04-23 22:16:37,Substation-8,Transformer Overheat,TR-210,67.38
+2025-04-23 22:48:37,Substation-1,Normal,,181.46
+2025-04-23 23:04:37,Substation-4,Breaker Tripped,BR-305,68.23
+2025-04-23 23:43:37,Substation-2,Normal,,96.58
+2025-04-24 00:09:37,Substation-6,Line Fault,LF-388,116.36
+2025-04-24 00:23:37,Substation-10,Normal,,151.0
+2025-04-24 00:28:37,Substation-8,Normal,,140.07
+2025-04-24 00:31:37,Substation-3,Normal,,187.25
+2025-04-24 01:08:37,Substation-2,Normal,,182.1
+2025-04-24 01:17:37,Substation-9,Undervoltage,UV-402,74.45
+2025-04-24 01:30:37,Substation-1,Overvoltage,OV-501,166.76
+2025-04-24 01:42:37,Substation-5,Normal,,153.91
+2025-04-24 01:42:37,Substation-10,Normal,,106.23
+2025-04-24 01:52:37,Substation-5,Undervoltage,UV-402,179.23
+2025-04-24 01:56:37,Substation-8,Frequency Drift,FD-112,155.85
+2025-04-24 02:24:37,Substation-3,Frequency Drift,FD-112,55.7
+2025-04-24 02:29:37,Substation-5,Overvoltage,OV-501,89.8
+2025-04-24 02:32:37,Substation-6,Breaker Tripped,BR-305,93.96
+2025-04-24 02:49:37,Substation-2,Overvoltage,OV-501,114.04
+2025-04-24 02:49:37,Substation-10,Normal,,193.46
+2025-04-24 03:02:37,Substation-2,Normal,,70.84
+2025-04-24 03:11:37,Substation-8,Transformer Overheat,TR-210,62.52
+2025-04-24 03:14:37,Substation-8,Overvoltage,OV-501,136.8
+2025-04-24 03:17:37,Substation-4,Overload,OL-799,194.66
+2025-04-24 03:22:37,Substation-10,Undervoltage,UV-402,120.75
+2025-04-24 03:25:37,Substation-2,Normal,,122.7
+2025-04-24 03:27:37,Substation-3,Normal,,107.98
+2025-04-24 03:32:37,Substation-4,Transformer Overheat,TR-210,55.88
+2025-04-24 03:32:37,Substation-6,Normal,,102.09
+2025-04-24 03:37:37,Substation-2,Undervoltage,UV-402,140.52
+2025-04-24 03:37:37,Substation-2,Overvoltage,OV-501,134.79
+2025-04-24 03:40:37,Substation-10,Undervoltage,UV-402,141.2
+2025-04-24 04:05:37,Substation-2,Overvoltage,OV-501,73.87
+2025-04-24 04:10:37,Substation-8,Normal,,152.92
+2025-04-24 04:19:37,Substation-1,Normal,,196.07
+2025-04-24 04:23:37,Substation-7,Line Fault,LF-388,122.08
+2025-04-24 04:25:37,Substation-3,Undervoltage,UV-402,85.11
+2025-04-24 04:59:37,Substation-2,Overload,OL-799,65.65
+2025-04-24 05:01:37,Substation-6,Normal,,74.64
+2025-04-24 05:05:37,Substation-10,Normal,,91.27
+2025-04-24 05:06:37,Substation-1,Overvoltage,OV-501,58.96
+2025-04-24 05:08:37,Substation-6,Normal,,191.38
+2025-04-24 05:10:37,Substation-4,Undervoltage,UV-402,187.04
+2025-04-24 05:19:37,Substation-4,Normal,,178.33
+2025-04-24 05:23:37,Substation-8,Overvoltage,OV-501,61.82
+2025-04-24 05:24:37,Substation-8,Normal,,121.21
+2025-04-24 06:10:37,Substation-7,Overvoltage,OV-501,172.71
+2025-04-24 06:15:37,Substation-3,Line Fault,LF-388,177.58
+2025-04-24 06:19:37,Substation-2,Overvoltage,OV-501,96.91
+2025-04-24 06:29:37,Substation-9,Normal,,196.09
+2025-04-24 06:30:37,Substation-9,Transformer Overheat,TR-210,81.73
+2025-04-24 06:40:37,Substation-8,Line Fault,LF-388,120.08
+2025-04-24 06:41:37,Substation-1,Normal,,154.23
+2025-04-24 06:45:37,Substation-2,Normal,,164.23
+2025-04-24 06:46:37,Substation-6,Frequency Drift,FD-112,195.24
+2025-04-24 06:49:37,Substation-10,Overvoltage,OV-501,90.09
+2025-04-24 07:20:37,Substation-7,Line Fault,LF-388,196.7
+2025-04-24 07:23:37,Substation-5,Normal,,178.11
+2025-04-24 07:49:37,Substation-8,Frequency Drift,FD-112,169.67
+2025-04-24 08:02:37,Substation-2,Normal,,69.35
+2025-04-24 08:06:37,Substation-6,Normal,,126.26
+2025-04-24 08:07:37,Substation-2,Normal,,132.5
+2025-04-24 08:08:37,Substation-1,Transformer Overheat,TR-210,160.22
+2025-04-24 08:17:37,Substation-6,Breaker Tripped,BR-305,187.47
+2025-04-24 08:18:37,Substation-8,Overload,OL-799,97.48
+2025-04-24 08:24:37,Substation-4,Breaker Tripped,BR-305,74.61
+2025-04-24 08:27:37,Substation-7,Transformer Overheat,TR-210,112.24
+2025-04-24 08:36:37,Substation-1,Normal,,166.88
+2025-04-24 08:42:37,Substation-9,Undervoltage,UV-402,76.06
+2025-04-24 08:45:37,Substation-4,Normal,,175.78
+2025-04-24 08:59:37,Substation-4,Normal,,139.13
+2025-04-24 09:10:37,Substation-10,Frequency Drift,FD-112,50.31
+2025-04-24 09:43:37,Substation-9,Normal,,189.5
+2025-04-24 09:53:37,Substation-7,Undervoltage,UV-402,81.69
+2025-04-24 09:54:37,Substation-4,Line Fault,LF-388,195.63
+2025-04-24 09:54:37,Substation-4,Undervoltage,UV-402,50.29
+2025-04-24 09:59:37,Substation-5,Line Fault,LF-388,72.39
+2025-04-24 10:04:37,Substation-5,Normal,,193.31
+2025-04-24 10:06:37,Substation-1,Overvoltage,OV-501,159.03
+2025-04-24 10:11:37,Substation-3,Normal,,156.27
+2025-04-24 11:07:37,Substation-1,Frequency Drift,FD-112,160.88
+2025-04-24 11:13:37,Substation-4,Transformer Overheat,TR-210,51.73
+2025-04-24 11:14:37,Substation-1,Breaker Tripped,BR-305,58.86
+2025-04-24 11:18:37,Substation-6,Frequency Drift,FD-112,156.69
+2025-04-24 11:20:37,Substation-6,Normal,,55.92
+2025-04-24 11:27:37,Substation-7,Overvoltage,OV-501,103.27
+2025-04-24 11:30:37,Substation-6,Normal,,146.21
+2025-04-24 11:31:37,Substation-7,Normal,,94.9
+2025-04-24 11:58:37,Substation-3,Overvoltage,OV-501,95.84
+2025-04-24 12:13:37,Substation-5,Normal,,176.75
+2025-04-24 12:13:37,Substation-5,Normal,,61.78
+2025-04-24 12:35:37,Substation-3,Line Fault,LF-388,66.85
+2025-04-24 13:22:37,Substation-7,Line Fault,LF-388,155.8
+2025-04-24 13:23:37,Substation-10,Transformer Overheat,TR-210,156.92
+2025-04-24 13:39:37,Substation-7,Frequency Drift,FD-112,183.37
+2025-04-24 14:11:37,Substation-8,Normal,,168.84
+2025-04-24 14:23:37,Substation-2,Line Fault,LF-388,171.93
+2025-04-24 14:25:37,Substation-2,Line Fault,LF-388,68.63
+2025-04-24 14:42:37,Substation-4,Breaker Tripped,BR-305,85.11
+2025-04-24 14:51:37,Substation-2,Normal,,133.43
+2025-04-24 14:55:37,Substation-3,Normal,,138.16
+2025-04-24 15:01:37,Substation-4,Line Fault,LF-388,145.41
+2025-04-24 15:06:37,Substation-5,Breaker Tripped,BR-305,102.72
+2025-04-24 15:10:37,Substation-7,Normal,,112.52
+2025-04-24 16:00:37,Substation-1,Overload,OL-799,68.13
+2025-04-24 16:07:37,Substation-8,Overload,OL-799,171.36
+2025-04-24 16:08:37,Substation-3,Normal,,176.44
+2025-04-24 16:13:37,Substation-2,Overvoltage,OV-501,165.06
+2025-04-24 16:19:37,Substation-2,Normal,,119.62
+2025-04-24 16:22:37,Substation-5,Line Fault,LF-388,104.74
+2025-04-24 16:38:37,Substation-3,Overvoltage,OV-501,178.08
+2025-04-24 16:43:37,Substation-4,Transformer Overheat,TR-210,117.19
+2025-04-24 17:03:37,Substation-3,Normal,,140.37
+2025-04-24 17:09:37,Substation-3,Overload,OL-799,144.45
+2025-04-24 17:16:37,Substation-6,Breaker Tripped,BR-305,100.28
+2025-04-24 17:17:37,Substation-4,Normal,,135.14
+2025-04-24 17:18:37,Substation-9,Line Fault,LF-388,91.28
+2025-04-24 17:23:37,Substation-10,Normal,,84.14
+2025-04-24 17:40:37,Substation-2,Overload,OL-799,82.21
+2025-04-24 18:00:37,Substation-2,Normal,,109.08
+2025-04-24 18:04:37,Substation-3,Normal,,147.51
+2025-04-24 18:12:37,Substation-2,Normal,,60.92
+2025-04-24 18:13:37,Substation-1,Normal,,104.43
+2025-04-24 18:15:37,Substation-2,Normal,,131.07
+2025-04-24 18:29:37,Substation-5,Undervoltage,UV-402,175.7
+2025-04-24 18:47:37,Substation-3,Normal,,152.42
+2025-04-24 19:10:37,Substation-7,Transformer Overheat,TR-210,67.68
+2025-04-24 19:17:37,Substation-9,Undervoltage,UV-402,124.56
+2025-04-24 19:20:37,Substation-2,Overload,OL-799,72.81
+2025-04-24 19:27:37,Substation-6,Normal,,109.76
+2025-04-24 19:48:37,Substation-4,Transformer Overheat,TR-210,158.04
+2025-04-24 20:13:37,Substation-2,Undervoltage,UV-402,61.77
+2025-04-24 20:18:37,Substation-8,Normal,,165.12
+2025-04-24 20:22:37,Substation-8,Normal,,113.78
+2025-04-24 20:35:37,Substation-10,Overvoltage,OV-501,132.94
+2025-04-24 20:36:37,Substation-10,Line Fault,LF-388,58.77
+2025-04-24 20:38:37,Substation-4,Line Fault,LF-388,146.08
+2025-04-24 20:42:37,Substation-3,Normal,,180.88
+2025-04-24 21:03:37,Substation-5,Normal,,181.17
+2025-04-24 21:16:37,Substation-10,Overload,OL-799,198.31
+2025-04-24 21:19:37,Substation-6,Normal,,149.38
+2025-04-24 21:35:37,Substation-10,Overvoltage,OV-501,169.98
+2025-04-24 21:47:37,Substation-2,Overload,OL-799,53.25
+2025-04-24 21:50:37,Substation-6,Breaker Tripped,BR-305,148.38
+2025-04-24 21:52:37,Substation-1,Undervoltage,UV-402,138.85
+2025-04-24 22:09:37,Substation-5,Breaker Tripped,BR-305,97.35
+2025-04-24 22:21:37,Substation-9,Normal,,81.89
+2025-04-24 22:24:37,Substation-9,Breaker Tripped,BR-305,143.67
+2025-04-24 22:27:37,Substation-9,Normal,,173.24
+2025-04-24 22:44:37,Substation-2,Overload,OL-799,95.04
+2025-04-24 22:49:37,Substation-8,Transformer Overheat,TR-210,166.32
+2025-04-24 22:53:37,Substation-6,Normal,,79.92
+2025-04-24 22:59:37,Substation-6,Line Fault,LF-388,61.16
+2025-04-24 23:02:37,Substation-4,Overload,OL-799,141.98
+2025-04-24 23:16:37,Substation-9,Normal,,170.32
+2025-04-24 23:21:37,Substation-4,Line Fault,LF-388,154.64
+2025-04-24 23:25:37,Substation-1,Transformer Overheat,TR-210,130.61
+2025-04-24 23:35:37,Substation-10,Normal,,71.85
+2025-04-24 23:44:37,Substation-6,Normal,,75.44
+2025-04-25 00:12:37,Substation-2,Normal,,75.87
+2025-04-25 00:15:37,Substation-6,Overload,OL-799,179.03
+2025-04-25 00:37:37,Substation-9,Transformer Overheat,TR-210,171.88
+2025-04-25 00:42:37,Substation-5,Undervoltage,UV-402,195.7
+2025-04-25 00:52:37,Substation-2,Normal,,85.2
+2025-04-25 00:53:37,Substation-7,Breaker Tripped,BR-305,122.78
+2025-04-25 00:55:37,Substation-7,Normal,,122.14
+2025-04-25 01:00:37,Substation-8,Transformer Overheat,TR-210,64.81
+2025-04-25 01:19:37,Substation-10,Normal,,164.86
+2025-04-25 01:41:37,Substation-10,Undervoltage,UV-402,105.95
+2025-04-25 01:44:37,Substation-3,Normal,,92.46
+2025-04-25 01:49:37,Substation-3,Line Fault,LF-388,107.05
+2025-04-25 02:05:37,Substation-10,Overload,OL-799,139.21
+2025-04-25 02:09:37,Substation-5,Breaker Tripped,BR-305,123.52
+2025-04-25 02:12:37,Substation-10,Transformer Overheat,TR-210,141.47
+2025-04-25 02:14:37,Substation-3,Normal,,105.86
+2025-04-25 02:18:37,Substation-2,Transformer Overheat,TR-210,80.5
+2025-04-25 02:19:37,Substation-9,Undervoltage,UV-402,162.08
+2025-04-25 02:22:37,Substation-10,Normal,,68.45
+2025-04-25 02:24:37,Substation-10,Breaker Tripped,BR-305,114.91
+2025-04-25 02:50:37,Substation-6,Line Fault,LF-388,177.08
+2025-04-25 03:17:37,Substation-9,Normal,,114.06
+2025-04-25 03:24:37,Substation-2,Breaker Tripped,BR-305,150.84
+2025-04-25 03:25:37,Substation-7,Overload,OL-799,70.91
+2025-04-25 03:38:37,Substation-6,Transformer Overheat,TR-210,75.32
+2025-04-25 04:00:37,Substation-5,Normal,,130.13
+2025-04-25 04:07:37,Substation-6,Undervoltage,UV-402,69.38
+2025-04-25 04:11:37,Substation-8,Normal,,87.88
+2025-04-25 04:16:37,Substation-8,Frequency Drift,FD-112,63.44
+2025-04-25 04:43:37,Substation-6,Transformer Overheat,TR-210,165.3
+2025-04-25 04:57:37,Substation-6,Breaker Tripped,BR-305,70.84
+2025-04-25 05:21:37,Substation-3,Normal,,173.0
+2025-04-25 05:34:37,Substation-4,Undervoltage,UV-402,70.03
+2025-04-25 05:50:37,Substation-6,Frequency Drift,FD-112,104.03
+2025-04-25 05:53:37,Substation-1,Normal,,183.51
+2025-04-25 05:56:37,Substation-2,Overvoltage,OV-501,100.93
+2025-04-25 06:16:37,Substation-4,Normal,,155.97
+2025-04-25 06:26:37,Substation-10,Overvoltage,OV-501,184.97
+2025-04-25 06:38:37,Substation-7,Transformer Overheat,TR-210,97.51
+2025-04-25 06:59:37,Substation-8,Normal,,103.17
+2025-04-25 07:00:37,Substation-1,Overload,OL-799,164.38
+2025-04-25 07:14:37,Substation-2,Normal,,86.53
+2025-04-25 07:23:37,Substation-8,Line Fault,LF-388,156.45
+2025-04-25 07:32:37,Substation-3,Normal,,142.11
+2025-04-25 07:49:37,Substation-8,Normal,,163.46
+2025-04-25 07:53:37,Substation-9,Undervoltage,UV-402,70.64
+2025-04-25 08:15:37,Substation-9,Overload,OL-799,136.51
+2025-04-25 08:24:37,Substation-10,Breaker Tripped,BR-305,70.91
+2025-04-25 08:29:37,Substation-9,Normal,,105.77
+2025-04-25 08:36:37,Substation-7,Undervoltage,UV-402,74.15
+2025-04-25 08:41:37,Substation-6,Overvoltage,OV-501,153.94
+2025-04-25 08:44:37,Substation-4,Line Fault,LF-388,171.81
+2025-04-25 08:55:37,Substation-4,Undervoltage,UV-402,101.79
+2025-04-25 09:16:37,Substation-3,Normal,,159.68
+2025-04-25 09:38:37,Substation-2,Line Fault,LF-388,101.19
+2025-04-25 09:39:37,Substation-7,Overvoltage,OV-501,172.46
+2025-04-25 09:47:37,Substation-10,Normal,,86.72
+2025-04-25 09:51:37,Substation-3,Transformer Overheat,TR-210,50.08
+2025-04-25 10:07:37,Substation-7,Normal,,189.64
+2025-04-25 10:08:37,Substation-2,Frequency Drift,FD-112,134.83
+2025-04-25 10:09:37,Substation-5,Line Fault,LF-388,92.32
+2025-04-25 10:15:37,Substation-10,Normal,,103.77
+2025-04-25 10:22:37,Substation-3,Line Fault,LF-388,55.85
+2025-04-25 10:41:37,Substation-4,Frequency Drift,FD-112,58.37
+2025-04-25 10:49:37,Substation-2,Normal,,83.84
+2025-04-25 10:52:37,Substation-6,Transformer Overheat,TR-210,130.49
+2025-04-25 10:57:37,Substation-8,Normal,,112.69
+2025-04-25 11:18:37,Substation-2,Frequency Drift,FD-112,196.19
+2025-04-25 11:30:37,Substation-10,Normal,,160.67
+2025-04-25 11:31:37,Substation-2,Normal,,137.91
+2025-04-25 11:37:37,Substation-10,Normal,,162.46
+2025-04-25 11:46:37,Substation-1,Breaker Tripped,BR-305,183.0
+2025-04-25 11:56:37,Substation-3,Normal,,191.44
+2025-04-25 12:03:37,Substation-8,Normal,,174.57
+2025-04-25 12:06:37,Substation-4,Frequency Drift,FD-112,66.7
+2025-04-25 12:06:37,Substation-6,Frequency Drift,FD-112,179.95
+2025-04-25 12:17:37,Substation-2,Normal,,59.83
+2025-04-25 12:20:37,Substation-9,Normal,,116.68
+2025-04-25 12:27:37,Substation-10,Frequency Drift,FD-112,155.69
+2025-04-25 12:36:37,Substation-4,Normal,,80.92
+2025-04-25 13:01:37,Substation-3,Normal,,104.71
+2025-04-25 13:12:37,Substation-5,Breaker Tripped,BR-305,57.94
+2025-04-25 13:15:37,Substation-10,Line Fault,LF-388,89.02
+2025-04-25 13:23:37,Substation-9,Overvoltage,OV-501,68.7
+2025-04-25 13:37:37,Substation-10,Overvoltage,OV-501,165.26
+2025-04-25 14:17:37,Substation-3,Undervoltage,UV-402,141.15
+2025-04-25 14:19:37,Substation-7,Overload,OL-799,59.5
+2025-04-25 14:19:37,Substation-9,Normal,,154.28
+2025-04-25 14:35:37,Substation-5,Normal,,153.61
+2025-04-25 14:35:37,Substation-8,Normal,,184.36
+2025-04-25 14:50:37,Substation-4,Normal,,122.94
+2025-04-25 15:01:37,Substation-7,Breaker Tripped,BR-305,121.09
+2025-04-25 15:20:37,Substation-9,Normal,,172.08
+2025-04-25 15:37:37,Substation-7,Overload,OL-799,111.53
+2025-04-25 15:45:37,Substation-9,Line Fault,LF-388,99.13
+2025-04-25 16:06:37,Substation-4,Line Fault,LF-388,161.42
+2025-04-25 16:18:37,Substation-9,Breaker Tripped,BR-305,64.55
+2025-04-25 16:28:37,Substation-4,Normal,,162.37
+2025-04-25 16:30:37,Substation-8,Normal,,73.58
+2025-04-25 16:38:37,Substation-6,Normal,,191.72
+2025-04-25 16:46:37,Substation-4,Normal,,182.66
+2025-04-25 16:46:37,Substation-10,Line Fault,LF-388,54.05
+2025-04-25 16:58:37,Substation-2,Normal,,111.97
+2025-04-25 17:06:37,Substation-10,Breaker Tripped,BR-305,120.45
+2025-04-25 17:18:37,Substation-6,Breaker Tripped,BR-305,124.3
+2025-04-25 17:19:37,Substation-3,Transformer Overheat,TR-210,104.41
+2025-04-25 17:20:37,Substation-4,Breaker Tripped,BR-305,154.8
+2025-04-25 17:54:37,Substation-4,Overvoltage,OV-501,147.2
+2025-04-25 18:00:37,Substation-8,Undervoltage,UV-402,95.54
+2025-04-25 18:45:37,Substation-6,Normal,,55.76
+2025-04-25 18:46:37,Substation-10,Overvoltage,OV-501,164.1
+2025-04-25 18:47:37,Substation-5,Breaker Tripped,BR-305,159.4
+2025-04-25 18:48:37,Substation-1,Normal,,173.52
+2025-04-25 18:59:37,Substation-9,Overload,OL-799,128.91
+2025-04-25 19:22:37,Substation-10,Overload,OL-799,151.46
+2025-04-25 19:28:37,Substation-3,Normal,,180.16
+2025-04-25 19:30:37,Substation-5,Frequency Drift,FD-112,120.6
+2025-04-25 19:45:37,Substation-1,Frequency Drift,FD-112,118.35
+2025-04-25 19:47:37,Substation-7,Normal,,188.07
+2025-04-25 19:51:37,Substation-9,Undervoltage,UV-402,105.99
+2025-04-25 20:24:37,Substation-3,Normal,,67.5
+2025-04-25 20:27:37,Substation-5,Normal,,147.08
+2025-04-25 20:32:37,Substation-5,Undervoltage,UV-402,96.76
+2025-04-25 20:48:37,Substation-4,Normal,,169.14
+2025-04-25 20:50:37,Substation-10,Line Fault,LF-388,78.03
+2025-04-25 20:53:37,Substation-1,Transformer Overheat,TR-210,127.13
+2025-04-25 20:56:37,Substation-3,Frequency Drift,FD-112,133.71
+2025-04-25 21:14:37,Substation-10,Normal,,188.64
+2025-04-25 21:26:37,Substation-6,Normal,,97.3
+2025-04-25 21:29:37,Substation-1,Normal,,192.85
+2025-04-25 21:30:37,Substation-6,Frequency Drift,FD-112,69.57
+2025-04-25 21:50:37,Substation-3,Line Fault,LF-388,90.6
+2025-04-25 21:53:37,Substation-4,Normal,,112.36
+2025-04-25 22:17:37,Substation-5,Frequency Drift,FD-112,167.87
+2025-04-25 22:20:37,Substation-8,Normal,,185.63
+2025-04-25 22:20:37,Substation-8,Frequency Drift,FD-112,138.58
+2025-04-25 23:14:37,Substation-5,Normal,,158.98
+2025-04-25 23:24:37,Substation-9,Undervoltage,UV-402,142.59
+2025-04-25 23:28:37,Substation-10,Transformer Overheat,TR-210,108.34
+2025-04-25 23:42:37,Substation-1,Normal,,109.53
+2025-04-25 23:44:37,Substation-8,Overload,OL-799,196.59
+2025-04-25 23:46:37,Substation-10,Normal,,102.39
+2025-04-25 23:47:37,Substation-5,Normal,,141.52
+2025-04-25 23:47:37,Substation-8,Frequency Drift,FD-112,186.21
+2025-04-26 00:20:37,Substation-4,Normal,,129.8
+2025-04-26 00:22:37,Substation-9,Normal,,162.26
+2025-04-26 00:24:37,Substation-10,Overvoltage,OV-501,195.46
+2025-04-26 00:29:37,Substation-2,Overvoltage,OV-501,95.25
+2025-04-26 00:32:37,Substation-8,Overvoltage,OV-501,129.67
+2025-04-26 00:51:37,Substation-4,Line Fault,LF-388,109.78
+2025-04-26 01:08:37,Substation-2,Overvoltage,OV-501,157.64
+2025-04-26 01:11:37,Substation-6,Overload,OL-799,121.85
+2025-04-26 01:17:37,Substation-8,Normal,,99.91
+2025-04-26 01:18:37,Substation-5,Transformer Overheat,TR-210,66.43
+2025-04-26 01:46:37,Substation-4,Overvoltage,OV-501,73.1
+2025-04-26 01:54:37,Substation-2,Frequency Drift,FD-112,191.2
+2025-04-26 01:59:37,Substation-9,Normal,,100.26
+2025-04-26 02:02:37,Substation-2,Normal,,102.81
+2025-04-26 02:11:37,Substation-7,Undervoltage,UV-402,172.45
+2025-04-26 02:23:37,Substation-4,Undervoltage,UV-402,96.9
+2025-04-26 02:26:37,Substation-9,Overvoltage,OV-501,84.33
+2025-04-26 02:29:37,Substation-8,Undervoltage,UV-402,143.81
+2025-04-26 02:47:37,Substation-9,Normal,,104.74
+2025-04-26 02:59:37,Substation-7,Breaker Tripped,BR-305,139.42
+2025-04-26 03:09:37,Substation-10,Transformer Overheat,TR-210,138.55
+2025-04-26 03:31:37,Substation-1,Overvoltage,OV-501,186.84
+2025-04-26 03:52:37,Substation-1,Overvoltage,OV-501,129.35
+2025-04-26 03:53:37,Substation-8,Undervoltage,UV-402,81.64
+2025-04-26 03:58:37,Substation-9,Normal,,154.21
+2025-04-26 03:58:37,Substation-3,Normal,,142.69
+2025-04-26 04:04:37,Substation-3,Undervoltage,UV-402,123.29
+2025-04-26 04:05:37,Substation-10,Normal,,64.21
+2025-04-26 04:21:37,Substation-8,Normal,,119.11
+2025-04-26 04:28:37,Substation-3,Normal,,90.42
+2025-04-26 04:36:37,Substation-7,Line Fault,LF-388,80.69
+2025-04-26 04:40:37,Substation-5,Normal,,183.85
+2025-04-26 04:48:37,Substation-1,Undervoltage,UV-402,126.37
+2025-04-26 04:53:37,Substation-3,Frequency Drift,FD-112,56.55
+2025-04-26 04:58:37,Substation-10,Frequency Drift,FD-112,68.13
+2025-04-26 05:05:37,Substation-6,Line Fault,LF-388,188.79
+2025-04-26 05:08:37,Substation-9,Line Fault,LF-388,87.26
+2025-04-26 05:35:37,Substation-4,Overload,OL-799,174.34
+2025-04-26 05:45:37,Substation-1,Normal,,70.11
+2025-04-26 06:02:37,Substation-10,Frequency Drift,FD-112,82.44
+2025-04-26 06:03:37,Substation-2,Undervoltage,UV-402,52.24
+2025-04-26 06:24:37,Substation-7,Transformer Overheat,TR-210,83.2
+2025-04-26 06:28:37,Substation-4,Normal,,114.55
+2025-04-26 06:33:37,Substation-2,Normal,,176.79
+2025-04-26 06:42:37,Substation-10,Breaker Tripped,BR-305,106.06
+2025-04-26 06:47:37,Substation-6,Overload,OL-799,107.51
+2025-04-26 06:50:37,Substation-4,Normal,,100.09
+2025-04-26 06:51:37,Substation-4,Transformer Overheat,TR-210,197.24
+2025-04-26 06:58:37,Substation-2,Normal,,131.23
+2025-04-26 07:08:37,Substation-4,Normal,,169.68
+2025-04-26 07:09:37,Substation-5,Overload,OL-799,133.24
+2025-04-26 07:11:37,Substation-7,Breaker Tripped,BR-305,93.36
+2025-04-26 07:18:37,Substation-3,Normal,,110.03
+2025-04-26 07:22:37,Substation-10,Overvoltage,OV-501,153.52
+2025-04-26 07:26:37,Substation-2,Overvoltage,OV-501,139.87
+2025-04-26 07:34:37,Substation-9,Normal,,71.32
+2025-04-26 07:50:37,Substation-3,Overload,OL-799,119.09
+2025-04-26 08:00:37,Substation-5,Normal,,184.54
+2025-04-26 08:08:37,Substation-2,Breaker Tripped,BR-305,90.84
+2025-04-26 08:32:37,Substation-4,Line Fault,LF-388,102.96
+2025-04-26 08:49:37,Substation-3,Normal,,128.18
+2025-04-26 08:52:37,Substation-10,Frequency Drift,FD-112,154.54
+2025-04-26 08:59:37,Substation-8,Line Fault,LF-388,120.72
+2025-04-26 09:07:37,Substation-2,Breaker Tripped,BR-305,109.6
+2025-04-26 09:11:37,Substation-9,Overvoltage,OV-501,83.52
+2025-04-26 09:16:37,Substation-4,Normal,,138.18
+2025-04-26 09:16:37,Substation-6,Undervoltage,UV-402,117.22
+2025-04-26 09:23:37,Substation-3,Line Fault,LF-388,136.4
+2025-04-26 09:28:37,Substation-2,Normal,,84.14
+2025-04-26 09:52:37,Substation-10,Undervoltage,UV-402,101.34
+2025-04-26 09:59:37,Substation-3,Normal,,99.9
+2025-04-26 10:32:37,Substation-4,Frequency Drift,FD-112,134.1
+2025-04-26 10:38:37,Substation-7,Normal,,122.03
+2025-04-26 10:39:37,Substation-4,Undervoltage,UV-402,91.41
+2025-04-26 10:45:37,Substation-8,Undervoltage,UV-402,133.48
+2025-04-26 11:22:37,Substation-3,Normal,,84.26
+2025-04-26 11:40:37,Substation-4,Line Fault,LF-388,128.54
+2025-04-26 11:43:37,Substation-4,Transformer Overheat,TR-210,58.31
+2025-04-26 11:53:37,Substation-6,Undervoltage,UV-402,112.44
+2025-04-26 11:59:37,Substation-10,Overvoltage,OV-501,113.53
+2025-04-26 12:01:37,Substation-8,Breaker Tripped,BR-305,126.32
+2025-04-26 12:07:37,Substation-8,Undervoltage,UV-402,184.96
+2025-04-26 12:12:37,Substation-4,Normal,,163.17
+2025-04-26 12:46:37,Substation-4,Normal,,55.48
+2025-04-26 12:56:37,Substation-5,Overvoltage,OV-501,179.96
+2025-04-26 13:02:37,Substation-10,Overload,OL-799,153.81
+2025-04-26 13:33:37,Substation-9,Overload,OL-799,167.87
+2025-04-26 13:39:37,Substation-6,Transformer Overheat,TR-210,75.56
+2025-04-26 13:50:37,Substation-10,Normal,,189.41
+2025-04-26 13:50:37,Substation-1,Transformer Overheat,TR-210,87.47
+2025-04-26 13:57:37,Substation-10,Overvoltage,OV-501,104.87
+2025-04-26 14:10:37,Substation-10,Line Fault,LF-388,170.76
+2025-04-26 14:14:37,Substation-6,Normal,,192.86
+2025-04-26 14:21:37,Substation-5,Overload,OL-799,120.59
+2025-04-26 14:22:37,Substation-4,Transformer Overheat,TR-210,137.86
+2025-04-26 14:22:37,Substation-10,Frequency Drift,FD-112,133.56
+2025-04-26 14:38:37,Substation-3,Overvoltage,OV-501,192.78
+2025-04-26 14:42:37,Substation-1,Normal,,94.97
+2025-04-26 14:47:37,Substation-8,Breaker Tripped,BR-305,78.38
+2025-04-26 15:07:37,Substation-4,Undervoltage,UV-402,181.35
+2025-04-26 15:16:37,Substation-9,Transformer Overheat,TR-210,127.7
+2025-04-26 15:23:37,Substation-2,Breaker Tripped,BR-305,81.23
+2025-04-26 15:28:37,Substation-8,Undervoltage,UV-402,66.54
+2025-04-26 15:38:37,Substation-8,Normal,,114.01
+2025-04-26 15:50:37,Substation-1,Normal,,63.04
+2025-04-26 15:53:37,Substation-9,Breaker Tripped,BR-305,86.93
+2025-04-26 15:57:37,Substation-1,Transformer Overheat,TR-210,156.41
+2025-04-26 16:04:37,Substation-8,Overvoltage,OV-501,64.8
+2025-04-26 16:10:37,Substation-6,Normal,,98.73
+2025-04-26 16:11:37,Substation-2,Normal,,136.94
+2025-04-26 16:19:37,Substation-6,Frequency Drift,FD-112,99.98
+2025-04-26 16:48:37,Substation-2,Normal,,133.47
+2025-04-26 16:49:37,Substation-3,Normal,,196.54
+2025-04-26 16:51:37,Substation-1,Normal,,115.45
+2025-04-26 17:20:37,Substation-10,Normal,,112.9
+2025-04-26 17:27:37,Substation-3,Breaker Tripped,BR-305,193.53
+2025-04-26 17:35:37,Substation-8,Overvoltage,OV-501,76.98
+2025-04-26 17:35:37,Substation-9,Normal,,74.96
+2025-04-26 17:50:37,Substation-9,Overvoltage,OV-501,58.21
+2025-04-26 18:07:37,Substation-9,Breaker Tripped,BR-305,120.17
+2025-04-26 18:37:37,Substation-4,Overvoltage,OV-501,184.45
+2025-04-26 18:43:37,Substation-10,Normal,,74.03
+2025-04-26 18:44:37,Substation-4,Overvoltage,OV-501,87.42
+2025-04-26 18:44:37,Substation-5,Normal,,186.66
+2025-04-26 19:06:37,Substation-5,Undervoltage,UV-402,125.5
+2025-04-26 19:23:37,Substation-8,Normal,,93.76
+2025-04-26 19:27:37,Substation-4,Breaker Tripped,BR-305,197.92
+2025-04-26 19:32:37,Substation-2,Normal,,112.96
+2025-04-26 19:43:37,Substation-7,Normal,,89.18
+2025-04-26 19:44:37,Substation-8,Normal,,146.54
+2025-04-26 19:57:37,Substation-8,Undervoltage,UV-402,51.81
+2025-04-26 20:02:37,Substation-5,Overvoltage,OV-501,136.36
+2025-04-26 20:22:37,Substation-8,Transformer Overheat,TR-210,72.36
+2025-04-26 20:33:37,Substation-8,Normal,,173.08
+2025-04-26 20:42:37,Substation-3,Overload,OL-799,167.14
+2025-04-26 20:45:37,Substation-9,Overvoltage,OV-501,160.05
+2025-04-26 20:52:37,Substation-2,Line Fault,LF-388,166.08
+2025-04-26 21:08:37,Substation-1,Line Fault,LF-388,96.66
+2025-04-26 21:14:37,Substation-4,Transformer Overheat,TR-210,108.8
+2025-04-26 21:18:37,Substation-2,Normal,,67.05
+2025-04-26 21:27:37,Substation-6,Frequency Drift,FD-112,155.3
+2025-04-26 21:28:37,Substation-6,Transformer Overheat,TR-210,89.36
+2025-04-26 21:41:37,Substation-10,Undervoltage,UV-402,161.85
+2025-04-26 21:42:37,Substation-4,Normal,,59.83
+2025-04-26 21:58:37,Substation-5,Normal,,171.32
+2025-04-26 22:14:37,Substation-10,Transformer Overheat,TR-210,82.22
+2025-04-26 22:27:37,Substation-2,Line Fault,LF-388,165.36
+2025-04-26 22:32:37,Substation-6,Transformer Overheat,TR-210,131.09
+2025-04-26 22:46:37,Substation-9,Undervoltage,UV-402,90.57
+2025-04-26 22:59:37,Substation-9,Line Fault,LF-388,118.4
+2025-04-26 23:31:37,Substation-9,Breaker Tripped,BR-305,157.93
+2025-04-26 23:35:37,Substation-2,Normal,,102.47
+2025-04-26 23:41:37,Substation-8,Normal,,51.81
+2025-04-26 23:46:37,Substation-2,Frequency Drift,FD-112,198.9
+2025-04-26 23:48:37,Substation-4,Overvoltage,OV-501,170.62
+2025-04-26 23:51:37,Substation-7,Frequency Drift,FD-112,117.02
+2025-04-26 23:59:37,Substation-8,Breaker Tripped,BR-305,95.49
+2025-04-27 00:04:37,Substation-7,Line Fault,LF-388,178.88
+2025-04-27 00:08:37,Substation-1,Normal,,138.74
+2025-04-27 00:18:37,Substation-1,Breaker Tripped,BR-305,169.77
+2025-04-27 00:25:37,Substation-1,Normal,,118.12
+2025-04-27 00:28:37,Substation-6,Normal,,134.04
+2025-04-27 00:29:37,Substation-6,Line Fault,LF-388,164.29
+2025-04-27 00:38:37,Substation-6,Transformer Overheat,TR-210,91.32
+2025-04-27 01:17:37,Substation-4,Normal,,106.32
+2025-04-27 01:20:37,Substation-6,Line Fault,LF-388,85.17
+2025-04-27 01:33:37,Substation-5,Normal,,187.29
+2025-04-27 01:34:37,Substation-9,Normal,,78.95
+2025-04-27 01:45:37,Substation-6,Overvoltage,OV-501,78.69
+2025-04-27 01:46:37,Substation-10,Normal,,81.7
+2025-04-27 01:59:37,Substation-2,Frequency Drift,FD-112,113.75
+2025-04-27 02:00:37,Substation-2,Line Fault,LF-388,57.05
+2025-04-27 02:30:37,Substation-9,Overvoltage,OV-501,112.21
+2025-04-27 02:31:37,Substation-7,Normal,,180.18
+2025-04-27 02:43:37,Substation-1,Normal,,101.92
+2025-04-27 02:51:37,Substation-2,Normal,,181.86
+2025-04-27 03:00:37,Substation-9,Breaker Tripped,BR-305,129.66
+2025-04-27 03:15:37,Substation-5,Line Fault,LF-388,126.95
+2025-04-27 03:51:37,Substation-8,Frequency Drift,FD-112,107.62
+2025-04-27 03:53:37,Substation-5,Normal,,102.45
+2025-04-27 03:56:37,Substation-9,Overvoltage,OV-501,100.33
+2025-04-27 04:04:37,Substation-10,Overvoltage,OV-501,70.22
+2025-04-27 04:05:37,Substation-3,Frequency Drift,FD-112,75.07
+2025-04-27 04:08:37,Substation-9,Frequency Drift,FD-112,190.3
+2025-04-27 04:30:37,Substation-1,Transformer Overheat,TR-210,68.85
+2025-04-27 04:40:37,Substation-10,Breaker Tripped,BR-305,109.82
+2025-04-27 04:42:37,Substation-2,Frequency Drift,FD-112,119.19
+2025-04-27 04:46:37,Substation-3,Normal,,185.76
+2025-04-27 04:49:37,Substation-8,Normal,,97.9
+2025-04-27 05:05:37,Substation-3,Breaker Tripped,BR-305,150.33
+2025-04-27 05:20:37,Substation-8,Normal,,50.89
+2025-04-27 05:22:37,Substation-10,Undervoltage,UV-402,115.47
+2025-04-27 05:39:37,Substation-2,Normal,,88.42
+2025-04-27 05:43:37,Substation-4,Undervoltage,UV-402,99.59
+2025-04-27 05:50:37,Substation-2,Normal,,166.02
+2025-04-27 05:55:37,Substation-9,Normal,,112.22
+2025-04-27 05:56:37,Substation-4,Frequency Drift,FD-112,153.62
+2025-04-27 06:12:37,Substation-3,Breaker Tripped,BR-305,98.28
+2025-04-27 06:34:37,Substation-7,Normal,,153.3
+2025-04-27 06:49:37,Substation-2,Overvoltage,OV-501,65.15
+2025-04-27 06:58:37,Substation-2,Overvoltage,OV-501,118.89
+2025-04-27 06:58:37,Substation-4,Breaker Tripped,BR-305,98.72
+2025-04-27 07:22:37,Substation-1,Breaker Tripped,BR-305,139.12
+2025-04-27 07:22:37,Substation-4,Normal,,134.9
+2025-04-27 07:27:37,Substation-5,Normal,,162.39
+2025-04-27 07:28:37,Substation-10,Overload,OL-799,132.15
+2025-04-27 07:50:37,Substation-10,Line Fault,LF-388,155.93
+2025-04-27 07:53:37,Substation-9,Transformer Overheat,TR-210,196.71
+2025-04-27 08:00:37,Substation-6,Frequency Drift,FD-112,195.99
+2025-04-27 08:05:37,Substation-2,Line Fault,LF-388,193.4
+2025-04-27 08:30:37,Substation-4,Frequency Drift,FD-112,67.58
+2025-04-27 08:41:37,Substation-8,Normal,,166.96
+2025-04-27 08:53:37,Substation-4,Overvoltage,OV-501,55.92
+2025-04-27 08:59:37,Substation-7,Normal,,165.6
+2025-04-27 09:04:37,Substation-1,Overload,OL-799,56.61
+2025-04-27 09:24:37,Substation-10,Normal,,60.03
+2025-04-27 09:54:37,Substation-10,Normal,,190.15
+2025-04-27 10:08:37,Substation-10,Overvoltage,OV-501,68.32
+2025-04-27 10:36:37,Substation-4,Normal,,161.35
+2025-04-27 10:39:37,Substation-2,Undervoltage,UV-402,158.31
+2025-04-27 10:44:37,Substation-8,Transformer Overheat,TR-210,63.46
+2025-04-27 10:46:37,Substation-6,Normal,,165.37
+2025-04-27 10:55:37,Substation-2,Normal,,180.51
+2025-04-27 11:02:37,Substation-9,Transformer Overheat,TR-210,143.12
+2025-04-27 11:08:37,Substation-1,Breaker Tripped,BR-305,131.61
+2025-04-27 11:31:37,Substation-5,Normal,,77.01
+2025-04-27 12:09:37,Substation-4,Normal,,141.91
+2025-04-27 12:21:37,Substation-9,Frequency Drift,FD-112,64.12
+2025-04-27 12:28:37,Substation-4,Overvoltage,OV-501,169.14
+2025-04-27 12:45:37,Substation-8,Line Fault,LF-388,60.83
+2025-04-27 12:45:37,Substation-5,Undervoltage,UV-402,148.31
+2025-04-27 12:51:37,Substation-3,Breaker Tripped,BR-305,175.3
+2025-04-27 12:52:37,Substation-10,Line Fault,LF-388,111.57
+2025-04-27 12:56:37,Substation-10,Line Fault,LF-388,131.52
+2025-04-27 13:04:37,Substation-9,Line Fault,LF-388,104.12
+2025-04-27 13:12:37,Substation-3,Frequency Drift,FD-112,183.21
+2025-04-27 13:16:37,Substation-8,Normal,,116.94
+2025-04-27 13:28:37,Substation-4,Undervoltage,UV-402,61.86
+2025-04-27 14:04:37,Substation-6,Overvoltage,OV-501,71.63
+2025-04-27 14:18:37,Substation-6,Normal,,187.21
+2025-04-27 14:19:37,Substation-9,Normal,,193.51
+2025-04-27 14:31:37,Substation-7,Line Fault,LF-388,130.83
+2025-04-27 14:42:37,Substation-9,Breaker Tripped,BR-305,98.87
+2025-04-27 14:47:37,Substation-10,Undervoltage,UV-402,139.01
+2025-04-27 14:48:37,Substation-1,Undervoltage,UV-402,143.19
+2025-04-27 14:55:37,Substation-3,Transformer Overheat,TR-210,60.74
+2025-04-27 14:57:37,Substation-10,Breaker Tripped,BR-305,123.12
+2025-04-27 15:02:37,Substation-10,Transformer Overheat,TR-210,58.25
+2025-04-27 15:10:37,Substation-3,Overload,OL-799,76.35
+2025-04-27 15:18:37,Substation-1,Transformer Overheat,TR-210,102.09
+2025-04-27 15:31:37,Substation-6,Line Fault,LF-388,85.37
+2025-04-27 15:31:37,Substation-7,Transformer Overheat,TR-210,148.94
+2025-04-27 15:59:37,Substation-6,Transformer Overheat,TR-210,113.43
+2025-04-27 16:01:37,Substation-1,Overvoltage,OV-501,146.13
+2025-04-27 16:02:37,Substation-4,Normal,,101.44
+2025-04-27 16:13:37,Substation-2,Breaker Tripped,BR-305,98.67
+2025-04-27 16:20:37,Substation-1,Overload,OL-799,167.61
+2025-04-27 16:21:37,Substation-9,Frequency Drift,FD-112,116.43
+2025-04-27 16:26:37,Substation-6,Line Fault,LF-388,186.11
+2025-04-27 16:28:37,Substation-6,Line Fault,LF-388,193.69
+2025-04-27 16:37:37,Substation-10,Transformer Overheat,TR-210,72.73
+2025-04-27 17:00:37,Substation-6,Breaker Tripped,BR-305,172.85
+2025-04-27 17:03:37,Substation-10,Breaker Tripped,BR-305,171.6
+2025-04-27 17:03:37,Substation-4,Normal,,184.18
+2025-04-27 17:10:37,Substation-1,Normal,,184.37
+2025-04-27 17:26:37,Substation-2,Line Fault,LF-388,180.97
+2025-04-27 17:38:37,Substation-8,Normal,,171.62
+2025-04-27 17:47:37,Substation-7,Normal,,137.63
+2025-04-27 17:53:37,Substation-10,Transformer Overheat,TR-210,60.42
+2025-04-27 17:55:37,Substation-7,Normal,,188.24
+2025-04-27 17:56:37,Substation-1,Normal,,63.64
+2025-04-27 17:56:37,Substation-2,Line Fault,LF-388,189.01
+2025-04-27 17:57:37,Substation-3,Normal,,148.98
+2025-04-27 18:14:37,Substation-10,Normal,,182.71
+2025-04-27 18:16:37,Substation-10,Undervoltage,UV-402,180.82
+2025-04-27 18:24:37,Substation-3,Undervoltage,UV-402,180.23
+2025-04-27 18:53:37,Substation-10,Normal,,55.21
+2025-04-27 18:53:37,Substation-8,Line Fault,LF-388,106.45
+2025-04-27 19:04:37,Substation-2,Normal,,166.71
+2025-04-27 19:10:37,Substation-9,Breaker Tripped,BR-305,126.22
+2025-04-27 19:13:37,Substation-9,Normal,,63.8
+2025-04-27 19:16:37,Substation-4,Frequency Drift,FD-112,153.03
+2025-04-27 19:18:37,Substation-3,Overload,OL-799,189.1
+2025-04-27 19:22:37,Substation-1,Transformer Overheat,TR-210,136.45
+2025-04-27 19:31:37,Substation-4,Normal,,142.69
+2025-04-27 19:32:37,Substation-4,Breaker Tripped,BR-305,199.63
+2025-04-27 19:37:37,Substation-6,Normal,,185.86
+2025-04-27 19:43:37,Substation-3,Frequency Drift,FD-112,196.16
+2025-04-27 19:53:37,Substation-5,Normal,,102.35
+2025-04-27 20:13:37,Substation-9,Transformer Overheat,TR-210,154.77
+2025-04-27 20:19:37,Substation-6,Normal,,192.95
+2025-04-27 20:30:37,Substation-7,Line Fault,LF-388,53.23
+2025-04-27 20:37:37,Substation-7,Normal,,173.74
+2025-04-27 20:45:37,Substation-6,Normal,,182.26
+2025-04-27 20:45:37,Substation-8,Normal,,142.31
+2025-04-27 20:46:37,Substation-3,Line Fault,LF-388,184.58
+2025-04-27 20:48:37,Substation-7,Breaker Tripped,BR-305,65.72
+2025-04-27 21:10:37,Substation-9,Normal,,149.27
+2025-04-27 21:12:37,Substation-1,Breaker Tripped,BR-305,139.82
+2025-04-27 21:16:37,Substation-2,Transformer Overheat,TR-210,102.46
+2025-04-27 21:18:37,Substation-9,Frequency Drift,FD-112,130.09
+2025-04-27 21:19:37,Substation-1,Undervoltage,UV-402,166.81
+2025-04-27 21:26:37,Substation-6,Breaker Tripped,BR-305,154.43
+2025-04-27 21:31:37,Substation-4,Normal,,61.69
+2025-04-27 21:34:37,Substation-7,Normal,,119.8
+2025-04-27 21:36:37,Substation-1,Frequency Drift,FD-112,92.68
+2025-04-27 21:42:37,Substation-6,Undervoltage,UV-402,120.05
+2025-04-27 21:51:37,Substation-9,Line Fault,LF-388,178.17
+2025-04-27 21:52:37,Substation-6,Normal,,80.86
+2025-04-27 22:21:37,Substation-7,Transformer Overheat,TR-210,158.27
+2025-04-27 22:37:37,Substation-5,Overload,OL-799,75.72
+2025-04-27 22:37:37,Substation-5,Frequency Drift,FD-112,114.02
+2025-04-27 22:44:37,Substation-9,Normal,,156.4
+2025-04-27 22:53:37,Substation-6,Normal,,65.12
+2025-04-27 22:53:37,Substation-10,Transformer Overheat,TR-210,154.03
+2025-04-27 22:55:37,Substation-10,Transformer Overheat,TR-210,83.23
+2025-04-27 22:58:37,Substation-5,Normal,,140.56
+2025-04-27 22:59:37,Substation-1,Normal,,132.89
+2025-04-27 23:11:37,Substation-4,Normal,,50.58
+2025-04-27 23:21:37,Substation-7,Overvoltage,OV-501,96.82
+2025-04-27 23:23:37,Substation-3,Normal,,159.83
+2025-04-27 23:27:37,Substation-8,Frequency Drift,FD-112,193.95
+2025-04-27 23:28:37,Substation-2,Overvoltage,OV-501,182.44
+2025-04-27 23:30:37,Substation-6,Normal,,51.96
+2025-04-27 23:31:37,Substation-4,Normal,,107.24
+2025-04-28 00:01:37,Substation-9,Frequency Drift,FD-112,146.56
+2025-04-28 00:12:37,Substation-10,Undervoltage,UV-402,159.83
+2025-04-28 00:23:37,Substation-8,Undervoltage,UV-402,122.67
+2025-04-28 00:30:37,Substation-5,Line Fault,LF-388,163.06
+2025-04-28 00:39:37,Substation-1,Normal,,99.25
+2025-04-28 00:39:37,Substation-9,Normal,,190.46
+2025-04-28 00:42:37,Substation-8,Breaker Tripped,BR-305,97.3
+2025-04-28 00:50:37,Substation-1,Normal,,126.71
+2025-04-28 00:51:37,Substation-9,Overvoltage,OV-501,119.26
+2025-04-28 01:02:37,Substation-3,Normal,,99.72
+2025-04-28 01:28:37,Substation-7,Overvoltage,OV-501,189.94
+2025-04-28 01:41:37,Substation-7,Undervoltage,UV-402,63.19
+2025-04-28 01:49:37,Substation-5,Undervoltage,UV-402,124.15
+2025-04-28 01:50:37,Substation-1,Breaker Tripped,BR-305,122.28
+2025-04-28 02:06:37,Substation-3,Line Fault,LF-388,190.68
+2025-04-28 02:10:37,Substation-5,Transformer Overheat,TR-210,171.51
+2025-04-28 02:17:37,Substation-8,Normal,,124.31
+2025-04-28 02:26:37,Substation-4,Normal,,148.6
+2025-04-28 02:39:37,Substation-6,Normal,,71.45
+2025-04-28 03:16:37,Substation-1,Undervoltage,UV-402,112.23
+2025-04-28 03:37:37,Substation-7,Breaker Tripped,BR-305,121.13
+2025-04-28 03:38:37,Substation-5,Normal,,171.69
+2025-04-28 03:44:37,Substation-6,Breaker Tripped,BR-305,52.09
+2025-04-28 03:50:37,Substation-6,Normal,,131.24
+2025-04-28 03:54:37,Substation-8,Normal,,86.85
+2025-04-28 04:00:37,Substation-5,Normal,,134.06
+2025-04-28 04:02:37,Substation-1,Normal,,198.37
+2025-04-28 04:23:37,Substation-10,Line Fault,LF-388,160.55
+2025-04-28 04:34:37,Substation-2,Overload,OL-799,115.59
+2025-04-28 04:38:37,Substation-2,Normal,,176.6
+2025-04-28 04:46:37,Substation-1,Normal,,162.84
+2025-04-28 05:08:37,Substation-4,Undervoltage,UV-402,107.35
+2025-04-28 05:20:37,Substation-5,Undervoltage,UV-402,79.47
+2025-04-28 05:32:37,Substation-5,Breaker Tripped,BR-305,128.27
+2025-04-28 05:34:37,Substation-5,Overload,OL-799,138.87
+2025-04-28 05:38:37,Substation-6,Normal,,109.9
+2025-04-28 05:50:37,Substation-1,Undervoltage,UV-402,115.45
+2025-04-28 05:52:37,Substation-9,Normal,,149.29
+2025-04-28 05:55:37,Substation-9,Normal,,66.51
+2025-04-28 06:01:37,Substation-2,Frequency Drift,FD-112,108.64
+2025-04-28 06:08:37,Substation-2,Overvoltage,OV-501,109.79
+2025-04-28 06:17:37,Substation-5,Undervoltage,UV-402,175.74
+2025-04-28 06:43:37,Substation-4,Overvoltage,OV-501,123.09
+2025-04-28 06:57:37,Substation-5,Frequency Drift,FD-112,193.74
+2025-04-28 07:12:37,Substation-9,Frequency Drift,FD-112,199.16
+2025-04-28 07:12:37,Substation-9,Normal,,86.62
+2025-04-28 07:29:37,Substation-5,Breaker Tripped,BR-305,165.15
+2025-04-28 08:20:37,Substation-9,Undervoltage,UV-402,140.14
+2025-04-28 08:22:37,Substation-8,Frequency Drift,FD-112,116.0
+2025-04-28 08:34:37,Substation-4,Transformer Overheat,TR-210,172.43
+2025-04-28 08:43:37,Substation-6,Transformer Overheat,TR-210,196.59
+2025-04-28 08:46:37,Substation-8,Normal,,69.16
+2025-04-28 08:51:37,Substation-6,Line Fault,LF-388,92.5
+2025-04-28 08:51:37,Substation-3,Line Fault,LF-388,110.08
+2025-04-28 08:52:37,Substation-1,Breaker Tripped,BR-305,133.78
+2025-04-28 09:06:37,Substation-2,Undervoltage,UV-402,181.02
+2025-04-28 09:09:37,Substation-2,Normal,,125.39
+2025-04-28 09:25:37,Substation-9,Line Fault,LF-388,77.79
+2025-04-28 09:25:37,Substation-6,Frequency Drift,FD-112,160.79
+2025-04-28 09:35:37,Substation-10,Overvoltage,OV-501,158.76
+2025-04-28 09:50:37,Substation-5,Overvoltage,OV-501,193.98
+2025-04-28 10:07:37,Substation-6,Line Fault,LF-388,108.56
+2025-04-28 10:13:37,Substation-4,Normal,,56.5
+2025-04-28 10:16:37,Substation-3,Normal,,159.27
+2025-04-28 10:26:37,Substation-1,Overvoltage,OV-501,85.88
+2025-04-28 10:40:37,Substation-3,Breaker Tripped,BR-305,158.25
+2025-04-28 10:42:37,Substation-7,Overload,OL-799,137.06
+2025-04-28 11:09:37,Substation-7,Normal,,165.5
+2025-04-28 11:17:37,Substation-7,Overvoltage,OV-501,189.57
+2025-04-28 11:19:37,Substation-10,Normal,,159.08
+2025-04-28 11:24:37,Substation-4,Line Fault,LF-388,105.78
+2025-04-28 11:33:37,Substation-8,Frequency Drift,FD-112,188.41
+2025-04-28 11:34:37,Substation-7,Undervoltage,UV-402,110.5
+2025-04-28 11:38:37,Substation-10,Normal,,141.88
+2025-04-28 11:41:37,Substation-10,Normal,,97.25
+2025-04-28 11:43:37,Substation-8,Normal,,128.81
+2025-04-28 11:54:37,Substation-4,Normal,,175.32
+2025-04-28 12:26:37,Substation-8,Normal,,183.12
+2025-04-28 12:27:37,Substation-2,Overvoltage,OV-501,101.17
+2025-04-28 12:40:37,Substation-6,Normal,,55.78
+2025-04-28 12:43:37,Substation-10,Normal,,149.36
+2025-04-28 13:01:37,Substation-5,Overload,OL-799,133.76
+2025-04-28 13:11:37,Substation-3,Normal,,193.49
+2025-04-28 13:19:37,Substation-4,Breaker Tripped,BR-305,150.74
+2025-04-28 13:29:37,Substation-10,Overload,OL-799,82.77
+2025-04-28 13:38:37,Substation-8,Normal,,198.14
+2025-04-28 13:44:37,Substation-4,Overload,OL-799,161.58
+2025-04-28 13:51:37,Substation-7,Overvoltage,OV-501,141.68
+2025-04-28 14:00:37,Substation-6,Normal,,146.52
+2025-04-28 14:01:37,Substation-4,Normal,,173.06
+2025-04-28 14:23:37,Substation-5,Frequency Drift,FD-112,166.02
+2025-04-28 14:24:37,Substation-8,Line Fault,LF-388,87.67
+2025-04-28 14:26:37,Substation-10,Normal,,97.74
+2025-04-28 14:47:37,Substation-8,Line Fault,LF-388,147.45
+2025-04-28 14:49:37,Substation-3,Breaker Tripped,BR-305,142.16
+2025-04-28 15:04:37,Substation-5,Undervoltage,UV-402,161.16
+2025-04-28 15:10:37,Substation-9,Undervoltage,UV-402,67.91
+2025-04-28 15:37:37,Substation-4,Normal,,112.71
+2025-04-28 15:47:37,Substation-6,Transformer Overheat,TR-210,194.46
+2025-04-28 16:02:37,Substation-2,Undervoltage,UV-402,123.82
+2025-04-28 16:34:37,Substation-7,Normal,,126.61
+2025-04-28 16:42:37,Substation-6,Overload,OL-799,143.96
+2025-04-28 16:46:37,Substation-5,Transformer Overheat,TR-210,115.62
+2025-04-28 16:56:37,Substation-3,Frequency Drift,FD-112,198.94
+2025-04-28 17:18:37,Substation-6,Undervoltage,UV-402,169.65
+2025-04-28 17:30:37,Substation-3,Normal,,191.87
+2025-04-28 17:33:37,Substation-9,Normal,,107.54
+2025-04-28 18:22:37,Substation-8,Normal,,95.05
+2025-04-28 18:27:37,Substation-6,Normal,,66.48
+2025-04-28 18:57:37,Substation-7,Normal,,181.06
+2025-04-28 18:57:37,Substation-3,Transformer Overheat,TR-210,52.92
+2025-04-28 18:58:37,Substation-3,Line Fault,LF-388,50.46
+2025-04-28 19:05:37,Substation-3,Normal,,56.02
+2025-04-28 19:44:37,Substation-9,Undervoltage,UV-402,106.92
+2025-04-28 19:47:37,Substation-4,Normal,,143.83
+2025-04-28 19:52:37,Substation-7,Breaker Tripped,BR-305,132.44
+2025-04-28 19:53:37,Substation-2,Normal,,182.43
+2025-04-28 20:30:37,Substation-6,Normal,,65.57
+2025-04-28 20:34:37,Substation-2,Frequency Drift,FD-112,95.6
+2025-04-28 20:46:37,Substation-2,Normal,,144.77
+2025-04-28 20:51:37,Substation-6,Line Fault,LF-388,170.69
+2025-04-28 20:57:37,Substation-8,Breaker Tripped,BR-305,123.89
+2025-04-28 21:10:37,Substation-1,Transformer Overheat,TR-210,151.44
+2025-04-28 21:24:37,Substation-2,Transformer Overheat,TR-210,144.17
+2025-04-28 21:29:37,Substation-10,Normal,,91.41
+2025-04-28 21:36:37,Substation-7,Normal,,64.24
+2025-04-28 21:58:37,Substation-4,Normal,,60.31
+2025-04-28 22:18:37,Substation-4,Normal,,155.82
+2025-04-28 22:18:37,Substation-9,Breaker Tripped,BR-305,124.47
+2025-04-28 22:51:37,Substation-1,Undervoltage,UV-402,85.38
+2025-04-28 22:52:37,Substation-4,Normal,,141.61
+2025-04-28 22:53:37,Substation-7,Normal,,162.07
+2025-04-28 22:55:37,Substation-5,Breaker Tripped,BR-305,157.42
+2025-04-28 23:02:37,Substation-1,Normal,,65.85
+2025-04-28 23:08:37,Substation-5,Normal,,122.0
+2025-04-28 23:11:37,Substation-5,Overvoltage,OV-501,123.23
+2025-04-28 23:26:37,Substation-2,Normal,,127.52
+2025-04-28 23:28:37,Substation-4,Normal,,86.16
+2025-04-28 23:37:37,Substation-5,Line Fault,LF-388,197.48
+2025-04-28 23:43:37,Substation-2,Breaker Tripped,BR-305,121.46
+2025-04-28 23:55:37,Substation-1,Overload,OL-799,66.25
+2025-04-28 23:56:37,Substation-10,Frequency Drift,FD-112,153.41
+2025-04-29 00:08:37,Substation-8,Normal,,181.46
+2025-04-29 00:10:37,Substation-9,Frequency Drift,FD-112,190.15
+2025-04-29 00:51:37,Substation-8,Normal,,185.98
+2025-04-29 00:54:37,Substation-1,Transformer Overheat,TR-210,127.12
+2025-04-29 00:55:37,Substation-2,Breaker Tripped,BR-305,136.44
+2025-04-29 01:11:37,Substation-2,Line Fault,LF-388,82.12
+2025-04-29 01:20:37,Substation-6,Frequency Drift,FD-112,124.64
+2025-04-29 01:29:37,Substation-3,Transformer Overheat,TR-210,128.04
+2025-04-29 01:36:37,Substation-9,Normal,,116.21
+2025-04-29 01:38:37,Substation-3,Frequency Drift,FD-112,66.57
+2025-04-29 01:46:37,Substation-5,Breaker Tripped,BR-305,146.77
+2025-04-29 01:47:37,Substation-9,Normal,,84.66
+2025-04-29 01:59:37,Substation-9,Normal,,108.16
+2025-04-29 02:02:37,Substation-4,Normal,,186.85
+2025-04-29 02:03:37,Substation-1,Line Fault,LF-388,162.42
+2025-04-29 02:08:37,Substation-4,Normal,,65.6
+2025-04-29 02:10:37,Substation-3,Line Fault,LF-388,198.69
+2025-04-29 02:16:37,Substation-9,Breaker Tripped,BR-305,89.58
+2025-04-29 02:16:37,Substation-2,Frequency Drift,FD-112,186.71
+2025-04-29 02:16:37,Substation-4,Undervoltage,UV-402,149.58
+2025-04-29 02:23:37,Substation-1,Undervoltage,UV-402,169.51
+2025-04-29 02:45:37,Substation-10,Frequency Drift,FD-112,62.16
+2025-04-29 02:48:37,Substation-3,Transformer Overheat,TR-210,53.97
+2025-04-29 02:51:37,Substation-1,Breaker Tripped,BR-305,171.17
+2025-04-29 02:51:37,Substation-6,Normal,,129.64
+2025-04-29 02:52:37,Substation-1,Normal,,91.21
+2025-04-29 03:31:37,Substation-10,Normal,,158.8
+2025-04-29 03:35:37,Substation-9,Normal,,140.88
+2025-04-29 03:42:37,Substation-3,Line Fault,LF-388,189.5
+2025-04-29 03:51:37,Substation-2,Normal,,184.57
+2025-04-29 04:07:37,Substation-10,Normal,,195.26
+2025-04-29 04:38:37,Substation-8,Normal,,67.85
+2025-04-29 04:48:37,Substation-7,Normal,,162.51
+2025-04-29 05:00:37,Substation-8,Transformer Overheat,TR-210,142.15
+2025-04-29 05:07:37,Substation-9,Breaker Tripped,BR-305,82.99
+2025-04-29 05:16:37,Substation-9,Overvoltage,OV-501,167.52
+2025-04-29 05:20:37,Substation-4,Normal,,129.35
+2025-04-29 05:47:37,Substation-6,Normal,,56.03
+2025-04-29 05:51:37,Substation-2,Breaker Tripped,BR-305,93.53
+2025-04-29 05:59:37,Substation-2,Transformer Overheat,TR-210,115.67
+2025-04-29 06:04:37,Substation-1,Normal,,116.23
+2025-04-29 06:04:37,Substation-4,Overload,OL-799,158.96
+2025-04-29 06:15:37,Substation-9,Line Fault,LF-388,128.71
+2025-04-29 06:52:37,Substation-2,Undervoltage,UV-402,114.83
+2025-04-29 06:53:37,Substation-5,Overvoltage,OV-501,92.29
+2025-04-29 07:03:37,Substation-4,Normal,,75.38
+2025-04-29 07:26:37,Substation-8,Normal,,113.52
+2025-04-29 07:31:37,Substation-1,Overvoltage,OV-501,75.27
+2025-04-29 07:42:37,Substation-8,Undervoltage,UV-402,105.4
+2025-04-29 08:04:37,Substation-8,Normal,,193.4
+2025-04-29 08:05:37,Substation-3,Normal,,183.39
+2025-04-29 08:06:37,Substation-2,Normal,,150.14
+2025-04-29 08:12:37,Substation-1,Normal,,129.53
+2025-04-29 08:24:37,Substation-2,Normal,,60.12
+2025-04-29 09:07:37,Substation-1,Normal,,91.24
+2025-04-29 09:12:37,Substation-9,Normal,,73.27
+2025-04-29 09:15:37,Substation-8,Normal,,105.53
+2025-04-29 09:25:37,Substation-9,Line Fault,LF-388,74.08
+2025-04-29 09:50:37,Substation-4,Frequency Drift,FD-112,87.74
+2025-04-29 10:17:37,Substation-2,Normal,,123.72
+2025-04-29 10:19:37,Substation-2,Normal,,166.76
+2025-04-29 10:27:37,Substation-5,Normal,,96.05
+2025-04-29 10:37:37,Substation-2,Normal,,103.71
+2025-04-29 10:49:37,Substation-7,Breaker Tripped,BR-305,62.29
+2025-04-29 11:01:37,Substation-1,Normal,,90.76
+2025-04-29 11:36:37,Substation-5,Breaker Tripped,BR-305,95.76
+2025-04-29 11:51:37,Substation-5,Line Fault,LF-388,137.66
+2025-04-29 11:55:37,Substation-5,Normal,,56.63
+2025-04-29 12:00:37,Substation-2,Overload,OL-799,160.47
+2025-04-29 12:03:37,Substation-5,Normal,,123.19
+2025-04-29 12:09:37,Substation-7,Overvoltage,OV-501,67.81
+2025-04-29 12:49:37,Substation-2,Overvoltage,OV-501,56.47
+2025-04-29 12:53:37,Substation-8,Transformer Overheat,TR-210,114.93
+2025-04-29 12:54:37,Substation-1,Frequency Drift,FD-112,79.1
+2025-04-29 13:00:37,Substation-7,Breaker Tripped,BR-305,153.31
+2025-04-29 13:00:37,Substation-10,Breaker Tripped,BR-305,61.81
+2025-04-29 13:01:37,Substation-7,Normal,,148.8
+2025-04-29 13:02:37,Substation-3,Frequency Drift,FD-112,111.62
+2025-04-29 13:08:37,Substation-9,Normal,,101.52
+2025-04-29 13:17:37,Substation-9,Normal,,192.62
+2025-04-29 13:56:37,Substation-10,Normal,,121.8
+2025-04-29 14:16:37,Substation-4,Overload,OL-799,101.05
+2025-04-29 14:34:37,Substation-5,Line Fault,LF-388,64.93
+2025-04-29 14:55:37,Substation-5,Normal,,131.13
+2025-04-29 14:58:37,Substation-7,Undervoltage,UV-402,177.53
+2025-04-29 15:02:37,Substation-9,Overvoltage,OV-501,137.52
+2025-04-29 15:25:37,Substation-7,Normal,,137.92
+2025-04-29 15:32:37,Substation-4,Transformer Overheat,TR-210,188.65
+2025-04-29 15:40:37,Substation-6,Line Fault,LF-388,116.38
+2025-04-29 15:41:37,Substation-7,Overvoltage,OV-501,125.04
+2025-04-29 15:46:37,Substation-6,Undervoltage,UV-402,181.38
+2025-04-29 15:49:37,Substation-8,Breaker Tripped,BR-305,166.68
+2025-04-29 15:57:37,Substation-8,Normal,,166.46
+2025-04-29 15:58:37,Substation-9,Normal,,126.18
+2025-04-29 16:01:37,Substation-3,Normal,,170.96
+2025-04-29 16:02:37,Substation-3,Transformer Overheat,TR-210,138.19
+2025-04-29 16:17:37,Substation-4,Line Fault,LF-388,142.76
+2025-04-29 16:26:37,Substation-5,Line Fault,LF-388,128.61
+2025-04-29 16:43:37,Substation-5,Breaker Tripped,BR-305,137.36
+2025-04-29 16:52:37,Substation-10,Normal,,166.93
+2025-04-29 16:54:37,Substation-8,Transformer Overheat,TR-210,68.09
+2025-04-29 17:04:37,Substation-9,Overvoltage,OV-501,149.9
+2025-04-29 17:10:37,Substation-9,Breaker Tripped,BR-305,64.73
+2025-04-29 17:23:37,Substation-4,Normal,,134.64
+2025-04-29 17:24:37,Substation-8,Transformer Overheat,TR-210,133.24
+2025-04-29 17:27:37,Substation-10,Normal,,107.28
+2025-04-29 17:30:37,Substation-10,Overvoltage,OV-501,155.7
+2025-04-29 17:39:37,Substation-2,Normal,,99.96
+2025-04-29 18:03:37,Substation-8,Overvoltage,OV-501,137.53
+2025-04-29 18:05:37,Substation-6,Normal,,51.43
+2025-04-29 18:08:37,Substation-7,Overvoltage,OV-501,154.35
+2025-04-29 18:55:37,Substation-2,Normal,,153.42
+2025-04-29 19:57:37,Substation-4,Transformer Overheat,TR-210,129.72
+2025-04-29 20:00:37,Substation-5,Normal,,192.96
+2025-04-29 20:03:37,Substation-4,Normal,,179.82
+2025-04-29 20:08:37,Substation-8,Undervoltage,UV-402,141.62
+2025-04-29 20:16:37,Substation-2,Normal,,62.8
+2025-04-29 20:18:37,Substation-8,Breaker Tripped,BR-305,174.16
+2025-04-29 20:22:37,Substation-8,Normal,,84.26
+2025-04-29 20:52:37,Substation-6,Frequency Drift,FD-112,118.61
+2025-04-29 21:08:37,Substation-4,Line Fault,LF-388,76.54
+2025-04-29 21:27:37,Substation-6,Transformer Overheat,TR-210,75.69
+2025-04-29 21:30:37,Substation-6,Undervoltage,UV-402,88.15
+2025-04-29 22:06:37,Substation-2,Transformer Overheat,TR-210,126.88
+2025-04-29 22:19:37,Substation-10,Overvoltage,OV-501,117.57
+2025-04-29 22:25:37,Substation-3,Breaker Tripped,BR-305,158.65
+2025-04-29 22:36:37,Substation-7,Line Fault,LF-388,178.1
+2025-04-29 22:38:37,Substation-10,Frequency Drift,FD-112,123.25
+2025-04-29 22:46:37,Substation-10,Normal,,184.8
+2025-04-29 22:49:37,Substation-3,Undervoltage,UV-402,52.83
+2025-04-29 23:12:37,Substation-1,Normal,,74.55
+2025-04-29 23:13:37,Substation-8,Normal,,64.92
+2025-04-29 23:18:37,Substation-5,Normal,,150.97
+2025-04-29 23:23:37,Substation-1,Frequency Drift,FD-112,193.04
+2025-04-29 23:47:37,Substation-2,Normal,,182.94
+2025-04-30 00:08:37,Substation-4,Breaker Tripped,BR-305,198.45
+2025-04-30 00:21:37,Substation-7,Normal,,102.4
+2025-04-30 00:29:37,Substation-8,Overvoltage,OV-501,73.52
+2025-04-30 00:34:37,Substation-1,Overload,OL-799,193.92
+2025-04-30 00:39:37,Substation-10,Line Fault,LF-388,143.5
+2025-04-30 00:43:37,Substation-5,Line Fault,LF-388,54.05
+2025-04-30 00:50:37,Substation-4,Normal,,147.2
+2025-04-30 01:08:37,Substation-7,Breaker Tripped,BR-305,109.79
+2025-04-30 01:34:37,Substation-9,Line Fault,LF-388,61.26
+2025-04-30 01:46:37,Substation-10,Normal,,102.04
+2025-04-30 01:57:37,Substation-9,Breaker Tripped,BR-305,152.57
+2025-04-30 02:05:37,Substation-9,Line Fault,LF-388,153.99
+2025-04-30 02:14:37,Substation-3,Normal,,122.98
+2025-04-30 02:14:37,Substation-5,Normal,,110.98
+2025-04-30 02:23:37,Substation-5,Normal,,95.5
+2025-04-30 02:28:37,Substation-7,Normal,,146.12
+2025-04-30 02:29:37,Substation-3,Overvoltage,OV-501,134.85
+2025-04-30 02:35:37,Substation-1,Overvoltage,OV-501,138.64
+2025-04-30 02:43:37,Substation-8,Transformer Overheat,TR-210,93.96
+2025-04-30 03:01:37,Substation-6,Normal,,80.3
+2025-04-30 03:13:37,Substation-7,Normal,,69.64
+2025-04-30 03:18:37,Substation-6,Breaker Tripped,BR-305,53.66
+2025-04-30 03:21:37,Substation-10,Normal,,130.74
+2025-04-30 03:24:37,Substation-7,Line Fault,LF-388,189.05
+2025-04-30 03:32:37,Substation-10,Line Fault,LF-388,111.51
+2025-04-30 03:34:37,Substation-7,Normal,,163.12
+2025-04-30 03:44:37,Substation-2,Normal,,150.0
+2025-04-30 03:47:37,Substation-3,Normal,,147.68
+2025-04-30 03:51:37,Substation-3,Transformer Overheat,TR-210,83.4
+2025-04-30 03:53:37,Substation-6,Normal,,121.79
+2025-04-30 04:03:37,Substation-3,Normal,,157.26
+2025-04-30 04:03:37,Substation-7,Line Fault,LF-388,186.01
+2025-04-30 04:13:37,Substation-1,Normal,,129.06
+2025-04-30 04:25:37,Substation-8,Overvoltage,OV-501,61.04
+2025-04-30 04:32:37,Substation-7,Normal,,62.72
+2025-04-30 04:54:37,Substation-6,Overvoltage,OV-501,197.81
+2025-04-30 05:04:37,Substation-7,Normal,,116.68
+2025-04-30 05:07:37,Substation-9,Normal,,91.5
+2025-04-30 05:13:37,Substation-3,Undervoltage,UV-402,53.34
+2025-04-30 05:23:37,Substation-3,Overvoltage,OV-501,88.99
+2025-04-30 05:33:37,Substation-1,Undervoltage,UV-402,86.01
+2025-04-30 05:35:37,Substation-6,Overvoltage,OV-501,70.53
+2025-04-30 05:41:37,Substation-7,Normal,,167.4
+2025-04-30 05:41:37,Substation-4,Normal,,168.79
+2025-04-30 05:42:37,Substation-1,Normal,,116.12
+2025-04-30 05:44:37,Substation-6,Frequency Drift,FD-112,90.1
+2025-04-30 05:44:37,Substation-3,Normal,,122.34
+2025-04-30 06:02:37,Substation-7,Undervoltage,UV-402,183.14
+2025-04-30 06:07:37,Substation-10,Breaker Tripped,BR-305,103.48
+2025-04-30 06:13:37,Substation-5,Line Fault,LF-388,67.82
+2025-04-30 06:29:37,Substation-5,Normal,,102.93
+2025-04-30 06:30:37,Substation-3,Undervoltage,UV-402,97.16
+2025-04-30 06:31:37,Substation-8,Normal,,158.48
+2025-04-30 06:41:37,Substation-2,Overload,OL-799,195.77
+2025-04-30 07:20:37,Substation-8,Undervoltage,UV-402,134.43
+2025-04-30 07:55:37,Substation-10,Normal,,196.36
+2025-04-30 08:21:37,Substation-7,Overload,OL-799,65.58
+2025-04-30 08:36:37,Substation-10,Normal,,164.7
+2025-04-30 08:44:37,Substation-9,Frequency Drift,FD-112,86.17
+2025-04-30 08:54:37,Substation-8,Overvoltage,OV-501,118.3
+2025-04-30 08:54:37,Substation-2,Undervoltage,UV-402,52.73
+2025-04-30 08:57:37,Substation-6,Normal,,51.8
+2025-04-30 08:58:37,Substation-7,Line Fault,LF-388,128.04
+2025-04-30 10:05:37,Substation-9,Normal,,165.25
+2025-04-30 10:34:37,Substation-1,Overvoltage,OV-501,151.33
+2025-04-30 10:41:37,Substation-4,Line Fault,LF-388,154.17
+2025-04-30 10:47:37,Substation-5,Normal,,76.08
+2025-04-30 11:00:37,Substation-1,Normal,,78.5
+2025-04-30 11:04:37,Substation-9,Normal,,50.95
+2025-04-30 11:06:37,Substation-10,Line Fault,LF-388,109.38
+2025-04-30 11:34:37,Substation-8,Normal,,107.46
+2025-04-30 11:46:37,Substation-9,Overload,OL-799,111.37
+2025-04-30 12:12:37,Substation-3,Overload,OL-799,123.96
+2025-04-30 12:33:37,Substation-5,Undervoltage,UV-402,75.89
+2025-04-30 12:35:37,Substation-3,Transformer Overheat,TR-210,178.01
+2025-04-30 12:58:37,Substation-6,Normal,,183.66
+2025-04-30 13:01:37,Substation-4,Normal,,87.41
+2025-04-30 13:03:37,Substation-1,Normal,,150.49
+2025-04-30 13:23:37,Substation-8,Undervoltage,UV-402,96.88
+2025-04-30 13:34:37,Substation-9,Normal,,85.83
+2025-04-30 13:47:37,Substation-8,Overvoltage,OV-501,100.28
+2025-04-30 14:42:37,Substation-3,Breaker Tripped,BR-305,154.3
+2025-04-30 14:43:37,Substation-9,Undervoltage,UV-402,125.13
+2025-04-30 15:14:37,Substation-8,Frequency Drift,FD-112,74.97
+2025-04-30 15:17:37,Substation-10,Normal,,91.5
+2025-04-30 15:18:37,Substation-10,Overvoltage,OV-501,97.42
+2025-04-30 15:25:37,Substation-5,Overvoltage,OV-501,198.23
+2025-04-30 15:39:37,Substation-10,Line Fault,LF-388,191.28
+2025-04-30 15:44:37,Substation-7,Line Fault,LF-388,91.41
+2025-04-30 15:48:37,Substation-6,Normal,,114.07
+2025-04-30 16:06:37,Substation-4,Overload,OL-799,179.08
+2025-04-30 16:10:37,Substation-10,Normal,,184.82
+2025-04-30 16:36:37,Substation-9,Undervoltage,UV-402,165.01
+2025-04-30 16:48:37,Substation-1,Breaker Tripped,BR-305,109.48
+2025-04-30 17:22:37,Substation-7,Undervoltage,UV-402,51.07
+2025-04-30 17:46:37,Substation-8,Normal,,82.7
+2025-04-30 17:48:37,Substation-8,Overvoltage,OV-501,184.91
+2025-04-30 17:57:37,Substation-1,Normal,,140.14
+2025-04-30 18:32:37,Substation-10,Line Fault,LF-388,146.35
+2025-04-30 18:40:37,Substation-8,Normal,,109.47
+2025-04-30 19:30:37,Substation-3,Normal,,164.06
+2025-04-30 19:55:37,Substation-5,Undervoltage,UV-402,64.87
+2025-04-30 19:58:37,Substation-9,Breaker Tripped,BR-305,186.82
+2025-04-30 20:26:37,Substation-1,Overvoltage,OV-501,100.32
+2025-04-30 20:34:37,Substation-8,Overvoltage,OV-501,68.21
+2025-04-30 20:51:37,Substation-10,Frequency Drift,FD-112,66.65
+2025-04-30 20:52:37,Substation-9,Overvoltage,OV-501,52.35
+2025-04-30 20:57:37,Substation-10,Breaker Tripped,BR-305,156.95
+2025-04-30 20:57:37,Substation-8,Normal,,160.68
+2025-04-30 21:14:37,Substation-7,Normal,,110.43
+2025-04-30 21:36:37,Substation-5,Line Fault,LF-388,145.65
+2025-04-30 21:56:37,Substation-1,Normal,,199.62
+2025-04-30 22:00:37,Substation-8,Breaker Tripped,BR-305,71.09
+2025-04-30 22:00:37,Substation-1,Normal,,86.23
+2025-04-30 22:03:37,Substation-6,Normal,,193.67
+2025-04-30 22:11:37,Substation-10,Breaker Tripped,BR-305,50.81
+2025-04-30 22:20:37,Substation-1,Normal,,67.18
+2025-04-30 22:24:37,Substation-3,Overvoltage,OV-501,181.54
+2025-04-30 22:24:37,Substation-7,Line Fault,LF-388,59.38
+2025-04-30 22:48:37,Substation-5,Frequency Drift,FD-112,110.51
+2025-04-30 22:53:37,Substation-9,Normal,,99.0
+2025-04-30 23:01:37,Substation-9,Normal,,128.09
+2025-04-30 23:06:37,Substation-9,Overload,OL-799,169.74
+2025-04-30 23:11:37,Substation-5,Frequency Drift,FD-112,174.42
+2025-04-30 23:18:37,Substation-8,Line Fault,LF-388,71.03
+2025-04-30 23:23:37,Substation-1,Breaker Tripped,BR-305,170.75
+2025-04-30 23:32:37,Substation-6,Frequency Drift,FD-112,114.96
+2025-04-30 23:51:37,Substation-9,Transformer Overheat,TR-210,57.26
+2025-04-30 23:55:37,Substation-8,Normal,,113.14
+2025-05-01 00:07:37,Substation-8,Overvoltage,OV-501,66.38
+2025-05-01 00:13:37,Substation-1,Overvoltage,OV-501,165.82
+2025-05-01 00:36:37,Substation-10,Transformer Overheat,TR-210,130.27
+2025-05-01 01:06:37,Substation-5,Breaker Tripped,BR-305,100.61
+2025-05-01 01:16:37,Substation-6,Normal,,58.03
+2025-05-01 01:42:37,Substation-5,Frequency Drift,FD-112,145.07
+2025-05-01 01:52:37,Substation-10,Overvoltage,OV-501,119.45
+2025-05-01 01:54:37,Substation-10,Undervoltage,UV-402,144.64
+2025-05-01 02:03:37,Substation-5,Overvoltage,OV-501,96.03
+2025-05-01 02:09:37,Substation-5,Normal,,79.1
+2025-05-01 02:45:37,Substation-1,Normal,,68.59
+2025-05-01 02:53:37,Substation-4,Overvoltage,OV-501,171.77
+2025-05-01 02:53:37,Substation-5,Breaker Tripped,BR-305,143.09
+2025-05-01 02:55:37,Substation-8,Undervoltage,UV-402,61.4
+2025-05-01 03:05:37,Substation-5,Transformer Overheat,TR-210,74.19
+2025-05-01 03:17:37,Substation-3,Transformer Overheat,TR-210,69.71
+2025-05-01 03:45:37,Substation-6,Normal,,69.72
+2025-05-01 03:57:37,Substation-2,Normal,,110.08
+2025-05-01 04:39:37,Substation-9,Normal,,70.66
+2025-05-01 04:43:37,Substation-9,Undervoltage,UV-402,167.47
+2025-05-01 04:52:37,Substation-9,Normal,,129.36
+2025-05-01 04:56:37,Substation-3,Undervoltage,UV-402,121.37
+2025-05-01 05:00:37,Substation-8,Normal,,118.38
+2025-05-01 05:15:37,Substation-3,Transformer Overheat,TR-210,177.79
+2025-05-01 05:37:37,Substation-7,Normal,,177.84
+2025-05-01 05:42:37,Substation-7,Normal,,51.95
+2025-05-01 05:48:37,Substation-2,Breaker Tripped,BR-305,194.76
+2025-05-01 06:03:37,Substation-5,Normal,,108.13
+2025-05-01 06:46:37,Substation-3,Breaker Tripped,BR-305,107.85
+2025-05-01 07:07:37,Substation-7,Breaker Tripped,BR-305,177.75
+2025-05-01 07:12:37,Substation-9,Normal,,84.11
+2025-05-01 07:28:37,Substation-10,Breaker Tripped,BR-305,97.46
+2025-05-01 07:40:37,Substation-9,Normal,,193.74
+2025-05-01 07:48:37,Substation-3,Normal,,149.03
+2025-05-01 07:56:37,Substation-7,Frequency Drift,FD-112,180.19
+2025-05-01 08:03:37,Substation-9,Transformer Overheat,TR-210,198.3
+2025-05-01 08:04:37,Substation-8,Overvoltage,OV-501,109.16
+2025-05-01 08:07:37,Substation-5,Overvoltage,OV-501,160.22
+2025-05-01 08:08:37,Substation-1,Normal,,166.77
+2025-05-01 08:36:37,Substation-2,Normal,,147.92
+2025-05-01 08:42:37,Substation-9,Overload,OL-799,91.13
+2025-05-01 09:13:37,Substation-6,Normal,,156.3
+2025-05-01 09:27:37,Substation-4,Normal,,118.12
+2025-05-01 09:28:37,Substation-9,Overload,OL-799,134.68
+2025-05-01 09:39:37,Substation-7,Normal,,161.53
+2025-05-01 09:46:37,Substation-3,Overvoltage,OV-501,152.47
+2025-05-01 09:46:37,Substation-3,Breaker Tripped,BR-305,50.94
+2025-05-01 09:52:37,Substation-7,Normal,,148.74
+2025-05-01 09:57:37,Substation-10,Breaker Tripped,BR-305,84.62
+2025-05-01 10:07:37,Substation-8,Normal,,159.91
+2025-05-01 10:11:37,Substation-5,Normal,,80.83
+2025-05-01 10:30:37,Substation-8,Undervoltage,UV-402,138.16
+2025-05-01 10:56:37,Substation-4,Overvoltage,OV-501,143.73
+2025-05-01 11:07:37,Substation-2,Normal,,81.51
+2025-05-01 11:14:37,Substation-2,Undervoltage,UV-402,132.11
+2025-05-01 11:26:37,Substation-6,Overvoltage,OV-501,136.17
+2025-05-01 11:52:37,Substation-6,Normal,,148.66
+2025-05-01 11:57:37,Substation-6,Normal,,88.15
+2025-05-01 11:58:37,Substation-10,Normal,,188.16
+2025-05-01 12:00:37,Substation-10,Undervoltage,UV-402,118.26
+2025-05-01 12:11:37,Substation-5,Transformer Overheat,TR-210,111.86
+2025-05-01 12:39:37,Substation-6,Undervoltage,UV-402,115.18
+2025-05-01 12:50:37,Substation-6,Line Fault,LF-388,170.33
+2025-05-01 13:22:37,Substation-7,Transformer Overheat,TR-210,62.09
+2025-05-01 13:28:37,Substation-5,Frequency Drift,FD-112,127.52
+2025-05-01 13:39:37,Substation-7,Transformer Overheat,TR-210,93.69
+2025-05-01 13:57:37,Substation-10,Normal,,103.16
+2025-05-01 14:00:37,Substation-9,Frequency Drift,FD-112,83.72
+2025-05-01 14:02:37,Substation-4,Breaker Tripped,BR-305,158.61
+2025-05-01 14:36:37,Substation-5,Breaker Tripped,BR-305,123.99
+2025-05-01 14:38:37,Substation-4,Line Fault,LF-388,159.56
+2025-05-01 14:41:37,Substation-8,Normal,,50.1
+2025-05-01 14:45:37,Substation-6,Transformer Overheat,TR-210,157.57
+2025-05-01 14:47:37,Substation-8,Undervoltage,UV-402,69.35
+2025-05-01 14:57:37,Substation-3,Overload,OL-799,148.81
+2025-05-01 15:11:37,Substation-10,Overvoltage,OV-501,162.11
+2025-05-01 15:23:37,Substation-2,Overvoltage,OV-501,137.22
+2025-05-01 15:29:37,Substation-5,Frequency Drift,FD-112,153.84
+2025-05-01 15:54:37,Substation-3,Breaker Tripped,BR-305,93.04
+2025-05-01 16:13:37,Substation-10,Normal,,79.79
+2025-05-01 16:20:37,Substation-8,Normal,,64.67
+2025-05-01 16:28:37,Substation-6,Undervoltage,UV-402,121.72
+2025-05-01 16:37:37,Substation-5,Transformer Overheat,TR-210,64.99
+2025-05-01 17:24:37,Substation-2,Line Fault,LF-388,97.3
+2025-05-01 17:25:37,Substation-5,Normal,,122.1
+2025-05-01 18:18:37,Substation-6,Normal,,106.12
+2025-05-01 18:32:37,Substation-1,Frequency Drift,FD-112,111.36
+2025-05-01 18:41:37,Substation-3,Overload,OL-799,186.34
+2025-05-01 18:47:37,Substation-3,Normal,,91.48
+2025-05-01 19:08:37,Substation-5,Transformer Overheat,TR-210,179.06
+2025-05-01 19:14:37,Substation-2,Transformer Overheat,TR-210,90.32
+2025-05-01 19:17:37,Substation-1,Undervoltage,UV-402,89.77
+2025-05-01 19:17:37,Substation-5,Normal,,172.04
+2025-05-01 19:18:37,Substation-10,Transformer Overheat,TR-210,176.48
+2025-05-01 19:44:37,Substation-3,Normal,,65.94
+2025-05-01 20:04:37,Substation-5,Normal,,130.59
+2025-05-01 20:18:37,Substation-1,Transformer Overheat,TR-210,107.63
+2025-05-01 20:24:37,Substation-7,Normal,,82.36
+2025-05-01 20:26:37,Substation-8,Undervoltage,UV-402,50.33
+2025-05-01 20:49:37,Substation-1,Normal,,155.02
+2025-05-01 20:56:37,Substation-3,Normal,,106.95
+2025-05-01 20:57:37,Substation-10,Overvoltage,OV-501,176.82
+2025-05-01 21:06:37,Substation-1,Normal,,97.56
+2025-05-01 21:09:37,Substation-1,Normal,,129.64
+2025-05-01 21:22:37,Substation-4,Normal,,116.35
+2025-05-01 21:32:37,Substation-2,Normal,,171.85
+2025-05-01 21:33:37,Substation-3,Normal,,59.99
+2025-05-01 22:00:37,Substation-2,Frequency Drift,FD-112,116.06
+2025-05-01 22:02:37,Substation-2,Frequency Drift,FD-112,95.08
+2025-05-01 22:13:37,Substation-1,Transformer Overheat,TR-210,87.68
+2025-05-01 22:16:37,Substation-10,Undervoltage,UV-402,134.01
+2025-05-01 22:23:37,Substation-8,Normal,,61.16
+2025-05-01 22:42:37,Substation-4,Normal,,115.1
+2025-05-01 22:44:37,Substation-5,Overload,OL-799,197.36
+2025-05-01 23:00:37,Substation-2,Breaker Tripped,BR-305,120.58
+2025-05-01 23:19:37,Substation-5,Overvoltage,OV-501,148.65
+2025-05-01 23:26:37,Substation-4,Transformer Overheat,TR-210,96.17
+2025-05-01 23:49:37,Substation-1,Transformer Overheat,TR-210,110.86
+2025-05-01 23:51:37,Substation-8,Breaker Tripped,BR-305,166.22
+2025-05-01 23:54:37,Substation-3,Normal,,142.72
+2025-05-02 00:16:37,Substation-3,Normal,,189.16
+2025-05-02 00:52:37,Substation-8,Breaker Tripped,BR-305,152.77
+2025-05-02 01:25:37,Substation-9,Breaker Tripped,BR-305,135.99
+2025-05-02 01:55:37,Substation-5,Overload,OL-799,127.03
+2025-05-02 01:56:37,Substation-4,Transformer Overheat,TR-210,136.05
+2025-05-02 01:59:37,Substation-4,Frequency Drift,FD-112,171.6
+2025-05-02 02:00:37,Substation-4,Breaker Tripped,BR-305,80.47
+2025-05-02 02:05:37,Substation-5,Normal,,50.56
+2025-05-02 02:21:37,Substation-6,Undervoltage,UV-402,130.23
+2025-05-02 02:34:37,Substation-3,Line Fault,LF-388,62.13
+2025-05-02 02:51:37,Substation-8,Normal,,128.59
+2025-05-02 02:56:37,Substation-2,Normal,,102.34
+2025-05-02 03:00:37,Substation-1,Normal,,74.89
+2025-05-02 03:10:37,Substation-7,Transformer Overheat,TR-210,119.61
+2025-05-02 03:12:37,Substation-8,Breaker Tripped,BR-305,115.2
+2025-05-02 03:19:37,Substation-4,Breaker Tripped,BR-305,53.0
+2025-05-02 03:21:37,Substation-8,Transformer Overheat,TR-210,67.49
+2025-05-02 04:04:37,Substation-1,Normal,,195.85
+2025-05-02 04:12:37,Substation-3,Normal,,103.19
+2025-05-02 04:15:37,Substation-9,Undervoltage,UV-402,198.9
+2025-05-02 04:21:37,Substation-5,Normal,,171.99
+2025-05-02 04:25:37,Substation-9,Normal,,173.52
+2025-05-02 04:26:37,Substation-9,Overvoltage,OV-501,195.3
+2025-05-02 04:41:37,Substation-10,Overvoltage,OV-501,129.43
+2025-05-02 04:42:37,Substation-8,Undervoltage,UV-402,171.21
+2025-05-02 04:53:37,Substation-2,Normal,,118.67
+2025-05-02 05:00:37,Substation-1,Line Fault,LF-388,69.47
+2025-05-02 05:10:37,Substation-4,Normal,,133.77
+2025-05-02 05:18:37,Substation-5,Transformer Overheat,TR-210,147.34
+2025-05-02 05:23:37,Substation-5,Normal,,192.07
+2025-05-02 05:29:37,Substation-8,Normal,,155.75
+2025-05-02 05:44:37,Substation-3,Frequency Drift,FD-112,139.08
+2025-05-02 05:52:37,Substation-4,Normal,,53.06
+2025-05-02 06:00:37,Substation-5,Breaker Tripped,BR-305,104.97
+2025-05-02 06:23:37,Substation-9,Normal,,175.97
+2025-05-02 06:32:37,Substation-3,Line Fault,LF-388,135.77
+2025-05-02 06:52:37,Substation-9,Undervoltage,UV-402,173.44
+2025-05-02 06:54:37,Substation-5,Normal,,106.17
+2025-05-02 06:58:37,Substation-1,Normal,,64.66
+2025-05-02 07:04:37,Substation-8,Normal,,80.52
+2025-05-02 07:15:37,Substation-10,Normal,,64.92
+2025-05-02 07:34:37,Substation-1,Overvoltage,OV-501,105.29
+2025-05-02 08:03:37,Substation-8,Overvoltage,OV-501,195.5
+2025-05-02 08:06:37,Substation-3,Breaker Tripped,BR-305,124.77
+2025-05-02 08:06:37,Substation-5,Normal,,162.38
+2025-05-02 08:26:37,Substation-6,Normal,,50.07
+2025-05-02 08:29:37,Substation-2,Overvoltage,OV-501,71.75
+2025-05-02 08:50:37,Substation-5,Normal,,166.51
+2025-05-02 08:57:37,Substation-1,Undervoltage,UV-402,194.06
+2025-05-02 09:05:37,Substation-1,Transformer Overheat,TR-210,184.27
+2025-05-02 09:10:37,Substation-9,Transformer Overheat,TR-210,98.26
+2025-05-02 09:12:37,Substation-9,Overvoltage,OV-501,126.86
+2025-05-02 09:18:37,Substation-9,Breaker Tripped,BR-305,175.95
+2025-05-02 09:26:37,Substation-3,Normal,,59.82
+2025-05-02 09:34:37,Substation-9,Normal,,67.98
+2025-05-02 09:56:37,Substation-1,Transformer Overheat,TR-210,110.49
+2025-05-02 10:02:37,Substation-7,Normal,,191.68
+2025-05-02 10:19:37,Substation-8,Normal,,108.68
+2025-05-02 10:21:37,Substation-6,Normal,,81.6
+2025-05-02 10:25:37,Substation-5,Normal,,71.1
+2025-05-02 10:53:37,Substation-1,Normal,,60.22
+2025-05-02 10:58:37,Substation-8,Normal,,182.12
+2025-05-02 11:06:37,Substation-8,Normal,,138.15
+2025-05-02 11:08:37,Substation-9,Undervoltage,UV-402,52.32
+2025-05-02 11:26:37,Substation-3,Normal,,155.57
+2025-05-02 11:31:37,Substation-10,Overvoltage,OV-501,162.58
+2025-05-02 11:41:37,Substation-8,Overvoltage,OV-501,158.32
+2025-05-02 11:43:37,Substation-1,Normal,,153.11
+2025-05-02 11:49:37,Substation-4,Overvoltage,OV-501,173.65
+2025-05-02 11:50:37,Substation-7,Line Fault,LF-388,185.73
+2025-05-02 11:51:37,Substation-9,Normal,,118.11
+2025-05-02 11:59:37,Substation-7,Normal,,138.27
+2025-05-02 12:13:37,Substation-3,Overload,OL-799,110.72
+2025-05-02 12:29:37,Substation-1,Frequency Drift,FD-112,165.28
+2025-05-02 12:35:37,Substation-4,Normal,,184.89
+2025-05-02 13:44:37,Substation-10,Line Fault,LF-388,52.55
+2025-05-02 13:46:37,Substation-1,Normal,,173.13
+2025-05-02 13:56:37,Substation-10,Overvoltage,OV-501,174.74
+2025-05-02 14:11:37,Substation-5,Transformer Overheat,TR-210,122.63
+2025-05-02 14:26:37,Substation-9,Breaker Tripped,BR-305,56.7
+2025-05-02 14:27:37,Substation-8,Frequency Drift,FD-112,199.69
+2025-05-02 14:32:37,Substation-7,Overvoltage,OV-501,70.45
+2025-05-02 14:33:37,Substation-7,Frequency Drift,FD-112,116.17
+2025-05-02 14:42:37,Substation-7,Breaker Tripped,BR-305,122.31
+2025-05-02 14:43:37,Substation-1,Normal,,168.55
+2025-05-02 14:49:37,Substation-6,Line Fault,LF-388,157.38
+2025-05-02 14:50:37,Substation-5,Breaker Tripped,BR-305,170.61
+2025-05-02 15:00:37,Substation-4,Line Fault,LF-388,145.17
+2025-05-02 15:01:37,Substation-4,Undervoltage,UV-402,157.08
+2025-05-02 15:11:37,Substation-4,Line Fault,LF-388,94.82
+2025-05-02 15:19:37,Substation-9,Normal,,172.31
+2025-05-02 15:24:37,Substation-2,Undervoltage,UV-402,112.87
+2025-05-02 15:27:37,Substation-7,Normal,,173.53
+2025-05-02 15:29:37,Substation-6,Transformer Overheat,TR-210,93.37
+2025-05-02 15:32:37,Substation-9,Normal,,87.72
+2025-05-02 16:05:37,Substation-2,Normal,,135.57
+2025-05-02 16:44:37,Substation-6,Line Fault,LF-388,70.57
+2025-05-02 17:28:37,Substation-6,Breaker Tripped,BR-305,138.03
+2025-05-02 17:44:37,Substation-8,Breaker Tripped,BR-305,154.18
+2025-05-02 17:50:37,Substation-5,Normal,,134.76
+2025-05-02 18:12:37,Substation-2,Line Fault,LF-388,123.91
+2025-05-02 18:33:37,Substation-3,Transformer Overheat,TR-210,184.9
+2025-05-02 19:13:37,Substation-7,Normal,,67.63
+2025-05-02 19:24:37,Substation-2,Normal,,124.98
+2025-05-02 19:33:37,Substation-1,Undervoltage,UV-402,152.82
+2025-05-02 19:40:37,Substation-10,Breaker Tripped,BR-305,173.73
+2025-05-02 19:57:37,Substation-1,Overload,OL-799,70.94
+2025-05-02 19:59:37,Substation-10,Breaker Tripped,BR-305,78.91
+2025-05-02 20:11:37,Substation-3,Normal,,76.61
+2025-05-02 20:23:37,Substation-2,Overload,OL-799,97.89
+2025-05-02 20:40:37,Substation-3,Normal,,94.74
+2025-05-02 20:49:37,Substation-8,Frequency Drift,FD-112,139.33
+2025-05-02 21:03:37,Substation-4,Frequency Drift,FD-112,115.29
+2025-05-02 21:04:37,Substation-3,Normal,,155.73
+2025-05-02 21:13:37,Substation-5,Normal,,67.85
+2025-05-02 21:14:37,Substation-4,Breaker Tripped,BR-305,90.64
+2025-05-02 21:18:37,Substation-2,Frequency Drift,FD-112,174.75
+2025-05-02 21:19:37,Substation-1,Breaker Tripped,BR-305,100.25
+2025-05-02 21:24:37,Substation-5,Undervoltage,UV-402,137.95
+2025-05-02 21:26:37,Substation-7,Undervoltage,UV-402,106.24
+2025-05-02 21:40:37,Substation-5,Normal,,111.55
+2025-05-02 21:41:37,Substation-3,Overvoltage,OV-501,88.91
+2025-05-02 21:53:37,Substation-7,Breaker Tripped,BR-305,124.23
+2025-05-02 21:58:37,Substation-1,Normal,,176.86
+2025-05-02 22:05:37,Substation-1,Normal,,113.41
+2025-05-02 22:07:37,Substation-2,Normal,,104.32
+2025-05-02 22:12:37,Substation-6,Normal,,61.18
+2025-05-02 22:44:37,Substation-1,Overvoltage,OV-501,69.97
+2025-05-02 23:03:37,Substation-6,Normal,,63.83
+2025-05-02 23:07:37,Substation-10,Normal,,179.23
+2025-05-02 23:13:37,Substation-10,Normal,,65.81
+2025-05-02 23:18:37,Substation-10,Transformer Overheat,TR-210,165.34
+2025-05-02 23:37:37,Substation-10,Normal,,86.4
+2025-05-02 23:56:37,Substation-5,Normal,,120.14
+2025-05-03 00:19:37,Substation-1,Line Fault,LF-388,118.36
+2025-05-03 00:33:37,Substation-4,Normal,,111.18
+2025-05-03 00:33:37,Substation-4,Undervoltage,UV-402,119.06
+2025-05-03 00:58:37,Substation-7,Normal,,84.61
+2025-05-03 01:02:37,Substation-2,Normal,,55.73
+2025-05-03 01:09:37,Substation-2,Overvoltage,OV-501,167.46
+2025-05-03 01:21:37,Substation-1,Undervoltage,UV-402,101.55
+2025-05-03 01:54:37,Substation-7,Normal,,135.72
+2025-05-03 02:32:37,Substation-8,Line Fault,LF-388,96.44
+2025-05-03 02:32:37,Substation-10,Overvoltage,OV-501,127.88
+2025-05-03 02:32:37,Substation-8,Breaker Tripped,BR-305,139.2
+2025-05-03 02:52:37,Substation-6,Transformer Overheat,TR-210,117.65
+2025-05-03 02:54:37,Substation-7,Overvoltage,OV-501,135.2
+2025-05-03 02:54:37,Substation-6,Undervoltage,UV-402,174.21
+2025-05-03 03:02:37,Substation-4,Normal,,60.25
+2025-05-03 03:04:37,Substation-5,Overvoltage,OV-501,101.59
+2025-05-03 03:21:37,Substation-5,Breaker Tripped,BR-305,150.32
+2025-05-03 03:44:37,Substation-2,Normal,,50.01
+2025-05-03 04:14:37,Substation-1,Breaker Tripped,BR-305,100.68
+2025-05-03 04:22:37,Substation-6,Overvoltage,OV-501,146.14
+2025-05-03 04:27:37,Substation-9,Normal,,75.45
+2025-05-03 05:03:37,Substation-9,Overvoltage,OV-501,88.41
+2025-05-03 05:09:37,Substation-8,Normal,,60.65
+2025-05-03 05:11:37,Substation-2,Line Fault,LF-388,187.98
+2025-05-03 05:34:37,Substation-1,Normal,,106.4
+2025-05-03 05:43:37,Substation-3,Normal,,57.76
+2025-05-03 05:54:37,Substation-3,Breaker Tripped,BR-305,76.99
+2025-05-03 06:03:37,Substation-3,Overvoltage,OV-501,179.57
+2025-05-03 06:20:37,Substation-8,Overload,OL-799,158.67
+2025-05-03 06:21:37,Substation-9,Breaker Tripped,BR-305,173.37
+2025-05-03 06:21:37,Substation-7,Line Fault,LF-388,157.27
+2025-05-03 06:25:37,Substation-4,Normal,,144.02
+2025-05-03 06:27:37,Substation-4,Normal,,163.11
+2025-05-03 06:40:37,Substation-9,Frequency Drift,FD-112,137.99
+2025-05-03 06:52:37,Substation-7,Breaker Tripped,BR-305,134.2
+2025-05-03 06:55:37,Substation-8,Normal,,168.2
+2025-05-03 07:19:37,Substation-7,Line Fault,LF-388,97.85
+2025-05-03 07:29:37,Substation-9,Breaker Tripped,BR-305,178.32
+2025-05-03 07:32:37,Substation-8,Normal,,50.02
+2025-05-03 07:45:37,Substation-10,Undervoltage,UV-402,80.65
+2025-05-03 08:12:37,Substation-1,Transformer Overheat,TR-210,176.33
+2025-05-03 08:14:37,Substation-2,Overvoltage,OV-501,195.41
+2025-05-03 08:20:37,Substation-3,Transformer Overheat,TR-210,130.39
+2025-05-03 08:29:37,Substation-6,Breaker Tripped,BR-305,116.77
+2025-05-03 08:31:37,Substation-2,Frequency Drift,FD-112,183.83
+2025-05-03 08:53:37,Substation-10,Line Fault,LF-388,69.83
+2025-05-03 09:10:37,Substation-5,Normal,,174.84
+2025-05-03 09:22:37,Substation-6,Frequency Drift,FD-112,73.07
+2025-05-03 09:33:37,Substation-2,Frequency Drift,FD-112,92.79
+2025-05-03 09:45:37,Substation-4,Undervoltage,UV-402,176.37
+2025-05-03 09:45:37,Substation-7,Overload,OL-799,190.47
+2025-05-03 09:48:37,Substation-9,Normal,,190.95
+2025-05-03 09:51:37,Substation-1,Normal,,84.24
+2025-05-03 09:58:37,Substation-7,Overload,OL-799,162.09
+2025-05-03 10:23:37,Substation-7,Transformer Overheat,TR-210,57.0
+2025-05-03 11:10:37,Substation-5,Normal,,110.23
+2025-05-03 11:11:37,Substation-10,Overload,OL-799,87.95
+2025-05-03 11:14:37,Substation-5,Normal,,145.39
+2025-05-03 11:19:37,Substation-2,Frequency Drift,FD-112,105.48
+2025-05-03 12:03:37,Substation-6,Normal,,98.21
+2025-05-03 12:04:37,Substation-3,Transformer Overheat,TR-210,99.77
+2025-05-03 12:41:37,Substation-1,Normal,,97.49
+2025-05-03 12:51:37,Substation-2,Breaker Tripped,BR-305,58.47
+2025-05-03 12:55:37,Substation-8,Breaker Tripped,BR-305,157.28
+2025-05-03 13:07:37,Substation-9,Undervoltage,UV-402,70.28
+2025-05-03 13:10:37,Substation-9,Overload,OL-799,125.57
+2025-05-03 13:18:37,Substation-6,Line Fault,LF-388,55.24
+2025-05-03 13:35:37,Substation-8,Normal,,196.81
+2025-05-03 13:58:37,Substation-2,Frequency Drift,FD-112,56.6
+2025-05-03 13:59:37,Substation-10,Normal,,142.28
+2025-05-03 14:05:37,Substation-10,Normal,,190.08
+2025-05-03 14:07:37,Substation-10,Breaker Tripped,BR-305,117.39
+2025-05-03 14:26:37,Substation-5,Normal,,89.4
+2025-05-03 14:31:37,Substation-9,Normal,,91.82
+2025-05-03 14:36:37,Substation-7,Normal,,55.57
+2025-05-03 14:48:37,Substation-10,Breaker Tripped,BR-305,53.23
+2025-05-03 14:52:37,Substation-10,Transformer Overheat,TR-210,135.19
+2025-05-03 15:00:37,Substation-3,Normal,,190.4
+2025-05-03 15:13:37,Substation-4,Line Fault,LF-388,125.59
+2025-05-03 15:28:37,Substation-9,Normal,,127.38
+2025-05-03 15:34:37,Substation-9,Normal,,142.89
+2025-05-03 15:35:37,Substation-10,Undervoltage,UV-402,194.34
+2025-05-03 15:58:37,Substation-2,Normal,,73.82
+2025-05-03 16:30:37,Substation-8,Breaker Tripped,BR-305,150.62
+2025-05-03 16:35:37,Substation-5,Frequency Drift,FD-112,170.29
+2025-05-03 16:57:37,Substation-9,Undervoltage,UV-402,106.09
+2025-05-03 17:45:37,Substation-9,Normal,,138.49
+2025-05-03 17:59:37,Substation-2,Normal,,166.0
+2025-05-03 18:00:37,Substation-9,Normal,,166.44
+2025-05-03 18:06:37,Substation-4,Undervoltage,UV-402,82.32
+2025-05-03 18:06:37,Substation-4,Line Fault,LF-388,149.22
+2025-05-03 18:10:37,Substation-10,Transformer Overheat,TR-210,93.85
+2025-05-03 18:10:37,Substation-10,Frequency Drift,FD-112,126.31
+2025-05-03 18:22:37,Substation-2,Undervoltage,UV-402,74.4
+2025-05-03 18:38:37,Substation-7,Transformer Overheat,TR-210,126.72
+2025-05-03 18:46:37,Substation-7,Breaker Tripped,BR-305,98.0
+2025-05-03 18:49:37,Substation-6,Normal,,148.08
+2025-05-03 19:14:37,Substation-5,Normal,,179.72
+2025-05-03 19:29:37,Substation-9,Overload,OL-799,162.74
+2025-05-03 19:39:37,Substation-6,Overload,OL-799,58.92
+2025-05-03 19:43:37,Substation-4,Normal,,57.31
+2025-05-03 19:44:37,Substation-4,Normal,,181.79
+2025-05-03 19:45:37,Substation-4,Overvoltage,OV-501,109.83
+2025-05-03 19:50:37,Substation-9,Line Fault,LF-388,99.56
+2025-05-03 20:02:37,Substation-6,Normal,,185.7
+2025-05-03 20:06:37,Substation-1,Transformer Overheat,TR-210,76.52
+2025-05-03 20:18:37,Substation-4,Normal,,120.72
+2025-05-03 20:53:37,Substation-7,Normal,,121.92
+2025-05-03 21:08:37,Substation-7,Breaker Tripped,BR-305,159.41
+2025-05-03 21:15:37,Substation-7,Frequency Drift,FD-112,99.78
+2025-05-03 21:22:37,Substation-4,Normal,,89.43
+2025-05-03 21:24:37,Substation-9,Undervoltage,UV-402,125.75
+2025-05-03 21:25:37,Substation-5,Normal,,103.92
+2025-05-03 21:38:37,Substation-3,Normal,,86.08
+2025-05-03 21:43:37,Substation-10,Breaker Tripped,BR-305,121.54
+2025-05-03 21:45:37,Substation-10,Normal,,90.15
+2025-05-03 21:50:37,Substation-7,Normal,,137.35
+2025-05-03 22:00:37,Substation-7,Transformer Overheat,TR-210,131.09
+2025-05-03 22:40:37,Substation-1,Breaker Tripped,BR-305,69.27
+2025-05-03 22:53:37,Substation-9,Breaker Tripped,BR-305,166.77
+2025-05-03 23:11:37,Substation-3,Transformer Overheat,TR-210,192.7
+2025-05-03 23:38:37,Substation-2,Overvoltage,OV-501,146.94
+2025-05-04 00:17:37,Substation-1,Transformer Overheat,TR-210,178.08
+2025-05-04 00:20:37,Substation-1,Overvoltage,OV-501,121.8
+2025-05-04 00:30:37,Substation-7,Normal,,52.9
+2025-05-04 00:33:37,Substation-4,Undervoltage,UV-402,97.09
+2025-05-04 00:41:37,Substation-6,Normal,,55.79
+2025-05-04 00:47:37,Substation-6,Normal,,144.98
+2025-05-04 00:48:37,Substation-10,Line Fault,LF-388,159.19
+2025-05-04 01:08:37,Substation-3,Normal,,169.75
+2025-05-04 01:15:37,Substation-9,Normal,,116.54
+2025-05-04 01:26:37,Substation-10,Breaker Tripped,BR-305,120.96
+2025-05-04 01:30:37,Substation-9,Undervoltage,UV-402,145.92
+2025-05-04 01:34:37,Substation-10,Normal,,96.05
+2025-05-04 01:51:37,Substation-4,Undervoltage,UV-402,119.0
+2025-05-04 01:54:37,Substation-3,Frequency Drift,FD-112,164.1
+2025-05-04 01:58:37,Substation-7,Breaker Tripped,BR-305,73.88
+2025-05-04 02:05:37,Substation-2,Breaker Tripped,BR-305,74.1
+2025-05-04 02:08:37,Substation-6,Overvoltage,OV-501,88.41
+2025-05-04 02:25:37,Substation-2,Normal,,141.16
+2025-05-04 02:36:37,Substation-4,Normal,,67.04
+2025-05-04 02:56:37,Substation-4,Overvoltage,OV-501,143.65
+2025-05-04 02:56:37,Substation-7,Normal,,90.94
+2025-05-04 03:00:37,Substation-2,Normal,,153.12
+2025-05-04 03:04:37,Substation-6,Normal,,50.45
+2025-05-04 03:06:37,Substation-6,Breaker Tripped,BR-305,134.28
+2025-05-04 03:11:37,Substation-7,Normal,,161.56
+2025-05-04 03:12:37,Substation-3,Line Fault,LF-388,168.14
+2025-05-04 03:23:37,Substation-8,Normal,,62.89
+2025-05-04 03:35:37,Substation-7,Frequency Drift,FD-112,99.93
+2025-05-04 03:59:37,Substation-2,Overvoltage,OV-501,70.1
+2025-05-04 04:00:37,Substation-5,Undervoltage,UV-402,194.0
+2025-05-04 04:05:37,Substation-5,Normal,,149.55
+2025-05-04 04:06:37,Substation-5,Normal,,64.84
+2025-05-04 04:08:37,Substation-6,Overload,OL-799,132.05
+2025-05-04 04:16:37,Substation-8,Transformer Overheat,TR-210,95.39
+2025-05-04 04:59:37,Substation-10,Overvoltage,OV-501,77.68
+2025-05-04 05:31:37,Substation-3,Breaker Tripped,BR-305,148.07
+2025-05-04 05:45:37,Substation-9,Line Fault,LF-388,139.4
+2025-05-04 05:58:37,Substation-9,Frequency Drift,FD-112,65.24
+2025-05-04 06:08:37,Substation-5,Undervoltage,UV-402,153.36
+2025-05-04 06:19:37,Substation-9,Normal,,131.69
+2025-05-04 06:23:37,Substation-10,Transformer Overheat,TR-210,176.65
+2025-05-04 06:25:37,Substation-4,Line Fault,LF-388,149.09
+2025-05-04 06:38:37,Substation-8,Normal,,129.19
+2025-05-04 06:51:37,Substation-8,Normal,,90.27
+2025-05-04 06:55:37,Substation-10,Normal,,158.13
+2025-05-04 07:00:37,Substation-1,Undervoltage,UV-402,78.84
+2025-05-04 07:06:37,Substation-6,Line Fault,LF-388,53.99
+2025-05-04 07:16:37,Substation-5,Frequency Drift,FD-112,186.8
+2025-05-04 07:37:37,Substation-10,Normal,,154.59
+2025-05-04 07:55:37,Substation-10,Normal,,153.66
+2025-05-04 08:16:37,Substation-5,Transformer Overheat,TR-210,77.19
+2025-05-04 08:22:37,Substation-7,Overload,OL-799,86.03
+2025-05-04 08:27:37,Substation-10,Normal,,156.16
+2025-05-04 08:41:37,Substation-2,Normal,,128.93
+2025-05-04 08:44:37,Substation-6,Line Fault,LF-388,139.97
+2025-05-04 08:46:37,Substation-10,Line Fault,LF-388,95.96
+2025-05-04 09:01:37,Substation-3,Frequency Drift,FD-112,164.64
+2025-05-04 09:17:37,Substation-7,Undervoltage,UV-402,106.64
+2025-05-04 09:21:37,Substation-6,Normal,,137.04
+2025-05-04 10:12:37,Substation-7,Overvoltage,OV-501,163.6
+2025-05-04 10:22:37,Substation-3,Normal,,130.07
+2025-05-04 10:32:37,Substation-7,Undervoltage,UV-402,106.17
+2025-05-04 10:33:37,Substation-6,Normal,,62.98
+2025-05-04 10:36:37,Substation-10,Transformer Overheat,TR-210,171.25
+2025-05-04 10:46:37,Substation-3,Normal,,165.89
+2025-05-04 11:06:37,Substation-9,Normal,,130.95
+2025-05-04 11:22:37,Substation-6,Normal,,138.94
+2025-05-04 11:27:37,Substation-5,Normal,,135.48
+2025-05-04 11:28:37,Substation-9,Breaker Tripped,BR-305,188.88
+2025-05-04 11:43:37,Substation-10,Transformer Overheat,TR-210,171.52
+2025-05-04 11:44:37,Substation-1,Normal,,111.16
+2025-05-04 11:56:37,Substation-9,Normal,,130.67
+2025-05-04 11:59:37,Substation-8,Transformer Overheat,TR-210,103.19
+2025-05-04 12:11:37,Substation-2,Normal,,85.94
+2025-05-04 12:21:37,Substation-9,Breaker Tripped,BR-305,173.12
+2025-05-04 12:23:37,Substation-1,Overvoltage,OV-501,85.24
+2025-05-04 13:05:37,Substation-6,Normal,,72.01
+2025-05-04 13:11:37,Substation-3,Line Fault,LF-388,82.27
+2025-05-04 13:27:37,Substation-3,Normal,,193.25
+2025-05-04 13:34:37,Substation-6,Overvoltage,OV-501,63.73
+2025-05-04 13:36:37,Substation-1,Normal,,111.67
+2025-05-04 13:42:37,Substation-9,Normal,,146.93
+2025-05-04 13:46:37,Substation-5,Normal,,77.21
+2025-05-04 13:47:37,Substation-10,Line Fault,LF-388,174.35
+2025-05-04 13:51:37,Substation-3,Transformer Overheat,TR-210,92.3
+2025-05-04 13:52:37,Substation-10,Overvoltage,OV-501,150.54
+2025-05-04 13:54:37,Substation-2,Overvoltage,OV-501,195.77
+2025-05-04 13:57:37,Substation-3,Overvoltage,OV-501,102.19
+2025-05-04 14:18:37,Substation-2,Line Fault,LF-388,91.21
+2025-05-04 14:22:37,Substation-1,Overvoltage,OV-501,125.45
+2025-05-04 14:31:37,Substation-6,Overload,OL-799,112.99
+2025-05-04 14:36:37,Substation-1,Normal,,101.93
+2025-05-04 14:49:37,Substation-1,Breaker Tripped,BR-305,180.08
+2025-05-04 15:03:37,Substation-1,Line Fault,LF-388,86.35
+2025-05-04 15:09:37,Substation-8,Normal,,94.53
+2025-05-04 15:10:37,Substation-8,Normal,,172.24
+2025-05-04 15:26:37,Substation-1,Overvoltage,OV-501,89.81
+2025-05-04 15:29:37,Substation-2,Undervoltage,UV-402,101.1
+2025-05-04 15:42:37,Substation-5,Overload,OL-799,198.18
+2025-05-04 15:52:37,Substation-9,Breaker Tripped,BR-305,190.43
+2025-05-04 15:53:37,Substation-9,Normal,,147.59
+2025-05-04 16:09:37,Substation-5,Transformer Overheat,TR-210,103.7
+2025-05-04 16:10:37,Substation-10,Normal,,117.02
+2025-05-04 16:17:37,Substation-5,Normal,,169.52
+2025-05-04 16:28:37,Substation-3,Normal,,64.98
+2025-05-04 16:34:37,Substation-8,Normal,,89.46
+2025-05-04 16:44:37,Substation-9,Transformer Overheat,TR-210,172.17
+2025-05-04 16:51:37,Substation-4,Normal,,52.56
+2025-05-04 17:00:37,Substation-5,Breaker Tripped,BR-305,124.33
+2025-05-04 17:01:37,Substation-9,Overvoltage,OV-501,186.9
+2025-05-04 17:13:37,Substation-4,Transformer Overheat,TR-210,181.56
+2025-05-04 17:24:37,Substation-2,Overload,OL-799,86.8
+2025-05-04 17:32:37,Substation-1,Undervoltage,UV-402,103.0
+2025-05-04 17:35:37,Substation-7,Line Fault,LF-388,54.87
+2025-05-04 17:43:37,Substation-3,Transformer Overheat,TR-210,151.41
+2025-05-04 17:49:37,Substation-7,Breaker Tripped,BR-305,74.42
+2025-05-04 18:07:37,Substation-8,Undervoltage,UV-402,190.47
+2025-05-04 18:21:37,Substation-10,Undervoltage,UV-402,103.78
+2025-05-04 18:27:37,Substation-8,Overvoltage,OV-501,123.09
+2025-05-04 18:49:37,Substation-6,Breaker Tripped,BR-305,151.01
+2025-05-04 19:43:37,Substation-9,Transformer Overheat,TR-210,92.27
+2025-05-04 19:46:37,Substation-10,Undervoltage,UV-402,193.76
+2025-05-04 19:46:37,Substation-2,Frequency Drift,FD-112,129.1
+2025-05-04 20:04:37,Substation-5,Overvoltage,OV-501,63.06
+2025-05-04 20:07:37,Substation-5,Normal,,174.45
+2025-05-04 20:13:37,Substation-2,Normal,,110.97
+2025-05-04 20:39:37,Substation-1,Normal,,86.58
+2025-05-04 20:52:37,Substation-1,Normal,,58.12
+2025-05-04 20:54:37,Substation-1,Transformer Overheat,TR-210,181.74
+2025-05-04 20:56:37,Substation-9,Normal,,190.89
+2025-05-04 20:59:37,Substation-8,Normal,,103.36
+2025-05-04 21:06:37,Substation-1,Transformer Overheat,TR-210,156.53
+2025-05-04 21:10:37,Substation-6,Normal,,63.56
+2025-05-04 21:17:37,Substation-1,Normal,,51.83
+2025-05-04 21:20:37,Substation-6,Normal,,89.85
+2025-05-04 21:43:37,Substation-4,Normal,,111.46
+2025-05-04 21:48:37,Substation-7,Normal,,194.64
+2025-05-04 21:54:37,Substation-4,Breaker Tripped,BR-305,115.61
+2025-05-04 21:59:37,Substation-9,Normal,,89.72
+2025-05-04 21:59:37,Substation-10,Line Fault,LF-388,114.75
+2025-05-04 21:59:37,Substation-6,Frequency Drift,FD-112,191.61
+2025-05-04 22:26:37,Substation-1,Normal,,176.68
+2025-05-04 22:31:37,Substation-2,Normal,,141.55
+2025-05-04 22:34:37,Substation-8,Normal,,128.11
+2025-05-04 22:37:37,Substation-6,Breaker Tripped,BR-305,88.73
+2025-05-04 23:07:37,Substation-1,Normal,,93.53
+2025-05-04 23:29:37,Substation-9,Normal,,149.06
+2025-05-04 23:31:37,Substation-10,Transformer Overheat,TR-210,108.07
+2025-05-04 23:37:37,Substation-2,Transformer Overheat,TR-210,190.46
+2025-05-04 23:49:37,Substation-4,Breaker Tripped,BR-305,126.31
+2025-05-04 23:52:37,Substation-10,Overload,OL-799,70.6
+2025-05-04 23:58:37,Substation-2,Transformer Overheat,TR-210,74.11
+2025-05-05 00:03:37,Substation-10,Normal,,166.23
+2025-05-05 00:08:37,Substation-9,Normal,,68.86
+2025-05-05 00:09:37,Substation-8,Normal,,110.21
+2025-05-05 00:26:37,Substation-10,Breaker Tripped,BR-305,158.24
+2025-05-05 00:33:37,Substation-7,Line Fault,LF-388,162.5
+2025-05-05 00:35:37,Substation-2,Normal,,133.57
+2025-05-05 00:38:37,Substation-4,Overvoltage,OV-501,141.81
+2025-05-05 00:53:37,Substation-5,Normal,,172.23
+2025-05-05 00:55:37,Substation-4,Normal,,66.87
+2025-05-05 01:03:37,Substation-3,Frequency Drift,FD-112,137.53
+2025-05-05 01:14:37,Substation-7,Line Fault,LF-388,64.78
+2025-05-05 01:20:37,Substation-1,Breaker Tripped,BR-305,165.66
+2025-05-05 01:24:37,Substation-4,Undervoltage,UV-402,153.25
+2025-05-05 02:04:37,Substation-9,Overvoltage,OV-501,63.65
+2025-05-05 02:13:37,Substation-8,Overvoltage,OV-501,76.11
+2025-05-05 02:16:37,Substation-9,Transformer Overheat,TR-210,181.04
+2025-05-05 02:16:37,Substation-6,Normal,,195.25
+2025-05-05 02:21:37,Substation-10,Frequency Drift,FD-112,94.21
+2025-05-05 02:27:37,Substation-5,Breaker Tripped,BR-305,71.46
+2025-05-05 02:40:37,Substation-4,Overload,OL-799,137.9
+2025-05-05 02:45:37,Substation-8,Overload,OL-799,177.48
+2025-05-05 02:51:37,Substation-4,Overvoltage,OV-501,130.15
+2025-05-05 03:03:37,Substation-10,Normal,,127.83
+2025-05-05 04:19:37,Substation-8,Overload,OL-799,177.02
+2025-05-05 04:45:37,Substation-3,Line Fault,LF-388,175.09
+2025-05-05 04:54:37,Substation-5,Overvoltage,OV-501,163.93
+2025-05-05 04:56:37,Substation-2,Normal,,114.39
+2025-05-05 05:01:37,Substation-8,Overload,OL-799,130.18
+2025-05-05 05:07:37,Substation-9,Normal,,183.4
+2025-05-05 05:09:37,Substation-1,Normal,,82.55
+2025-05-05 05:13:37,Substation-5,Normal,,89.08
+2025-05-05 05:19:37,Substation-7,Normal,,80.97
+2025-05-05 05:24:37,Substation-2,Normal,,158.22
+2025-05-05 05:34:37,Substation-6,Undervoltage,UV-402,50.96
+2025-05-05 05:36:37,Substation-10,Normal,,70.2
+2025-05-05 05:37:37,Substation-10,Frequency Drift,FD-112,52.0
+2025-05-05 06:10:37,Substation-2,Normal,,117.0
+2025-05-05 06:14:37,Substation-7,Transformer Overheat,TR-210,142.23
+2025-05-05 06:18:37,Substation-8,Line Fault,LF-388,122.07
+2025-05-05 06:19:37,Substation-2,Normal,,76.94
+2025-05-05 06:33:37,Substation-7,Undervoltage,UV-402,194.69
+2025-05-05 06:53:37,Substation-2,Overvoltage,OV-501,135.02
+2025-05-05 07:06:37,Substation-3,Undervoltage,UV-402,81.23
+2025-05-05 07:09:37,Substation-2,Overvoltage,OV-501,163.6
+2025-05-05 07:10:37,Substation-3,Overvoltage,OV-501,165.67
+2025-05-05 07:31:37,Substation-3,Breaker Tripped,BR-305,173.29
+2025-05-05 07:44:37,Substation-8,Normal,,183.16
+2025-05-05 08:04:37,Substation-9,Normal,,85.82
+2025-05-05 08:25:37,Substation-6,Undervoltage,UV-402,76.11
+2025-05-05 08:50:37,Substation-6,Normal,,178.93
+2025-05-05 08:59:37,Substation-7,Transformer Overheat,TR-210,91.62
+2025-05-05 10:08:37,Substation-4,Normal,,100.68
+2025-05-05 10:14:37,Substation-4,Transformer Overheat,TR-210,76.18
+2025-05-05 10:20:37,Substation-1,Normal,,86.41
+2025-05-05 10:20:37,Substation-7,Undervoltage,UV-402,163.85
+2025-05-05 10:25:37,Substation-8,Normal,,74.74
+2025-05-05 10:45:37,Substation-6,Overvoltage,OV-501,107.24
+2025-05-05 11:09:37,Substation-2,Undervoltage,UV-402,143.07
+2025-05-05 11:16:37,Substation-9,Normal,,115.42
+2025-05-05 11:19:37,Substation-10,Breaker Tripped,BR-305,152.78
+2025-05-05 11:28:37,Substation-9,Normal,,172.7
+2025-05-05 11:38:37,Substation-9,Frequency Drift,FD-112,113.6
+2025-05-05 11:45:37,Substation-4,Overvoltage,OV-501,132.2
+2025-05-05 11:55:37,Substation-10,Transformer Overheat,TR-210,147.33
+2025-05-05 11:57:37,Substation-2,Frequency Drift,FD-112,173.23
+2025-05-05 12:21:37,Substation-7,Undervoltage,UV-402,92.43
+2025-05-05 12:28:37,Substation-7,Normal,,159.63
+2025-05-05 12:50:37,Substation-3,Normal,,125.46
+2025-05-05 13:14:37,Substation-2,Frequency Drift,FD-112,58.41
+2025-05-05 13:29:37,Substation-5,Normal,,186.68
+2025-05-05 13:35:37,Substation-10,Frequency Drift,FD-112,134.81
+2025-05-05 13:43:37,Substation-10,Undervoltage,UV-402,100.81
+2025-05-05 13:46:37,Substation-2,Normal,,115.43
+2025-05-05 13:55:37,Substation-1,Line Fault,LF-388,166.68
+2025-05-05 13:59:37,Substation-6,Overload,OL-799,104.5
+2025-05-05 14:18:37,Substation-3,Normal,,135.4
+2025-05-05 14:22:37,Substation-9,Frequency Drift,FD-112,170.54
+2025-05-05 14:38:37,Substation-4,Normal,,191.21
+2025-05-05 14:46:37,Substation-9,Breaker Tripped,BR-305,109.0
+2025-05-05 15:09:37,Substation-7,Line Fault,LF-388,150.15
+2025-05-05 15:36:37,Substation-3,Normal,,122.47
+2025-05-05 15:46:37,Substation-1,Normal,,153.1
+2025-05-05 15:54:37,Substation-6,Normal,,115.24
+2025-05-05 16:07:37,Substation-6,Breaker Tripped,BR-305,169.56
+2025-05-05 16:35:37,Substation-4,Breaker Tripped,BR-305,115.16
+2025-05-05 16:42:37,Substation-3,Breaker Tripped,BR-305,196.59
+2025-05-05 17:03:37,Substation-2,Normal,,195.49
+2025-05-05 17:28:37,Substation-3,Breaker Tripped,BR-305,197.85
+2025-05-05 17:31:37,Substation-6,Normal,,132.86
+2025-05-05 17:33:37,Substation-8,Line Fault,LF-388,176.22
+2025-05-05 17:34:37,Substation-6,Normal,,167.28
+2025-05-05 17:51:37,Substation-8,Normal,,57.85
+2025-05-05 18:05:37,Substation-8,Normal,,164.66
+2025-05-05 18:06:37,Substation-9,Normal,,50.01
+2025-05-05 18:20:37,Substation-10,Breaker Tripped,BR-305,182.98
+2025-05-05 18:23:37,Substation-4,Breaker Tripped,BR-305,140.5
+2025-05-05 18:31:37,Substation-6,Overvoltage,OV-501,100.55
+2025-05-05 18:36:37,Substation-2,Breaker Tripped,BR-305,137.52
+2025-05-05 18:50:37,Substation-9,Undervoltage,UV-402,137.99
+2025-05-05 18:59:37,Substation-10,Normal,,58.86
+2025-05-05 19:21:37,Substation-9,Undervoltage,UV-402,108.34
+2025-05-05 19:24:37,Substation-9,Normal,,128.47
+2025-05-05 19:27:37,Substation-10,Normal,,133.15
+2025-05-05 19:38:37,Substation-2,Normal,,135.66
+2025-05-05 19:48:37,Substation-9,Normal,,87.48
+2025-05-05 20:01:37,Substation-8,Overvoltage,OV-501,143.14
+2025-05-05 20:17:37,Substation-4,Line Fault,LF-388,66.73
+2025-05-05 20:20:37,Substation-4,Undervoltage,UV-402,70.68
+2025-05-05 20:24:37,Substation-2,Overvoltage,OV-501,130.18
+2025-05-05 20:36:37,Substation-6,Undervoltage,UV-402,101.32
+2025-05-05 20:37:37,Substation-7,Breaker Tripped,BR-305,90.31
+2025-05-05 20:38:37,Substation-3,Normal,,166.76
+2025-05-05 20:44:37,Substation-10,Line Fault,LF-388,122.48
+2025-05-05 20:47:37,Substation-1,Overload,OL-799,101.93
+2025-05-05 20:55:37,Substation-3,Normal,,57.41
+2025-05-05 20:57:37,Substation-2,Undervoltage,UV-402,128.57
+2025-05-05 21:03:37,Substation-10,Normal,,109.39
+2025-05-05 21:19:37,Substation-8,Normal,,103.1
+2025-05-05 21:26:37,Substation-4,Breaker Tripped,BR-305,106.73
+2025-05-05 21:45:37,Substation-10,Normal,,93.13
+2025-05-05 21:50:37,Substation-5,Overvoltage,OV-501,110.18
+2025-05-05 21:53:37,Substation-2,Normal,,136.8
+2025-05-05 21:54:37,Substation-1,Undervoltage,UV-402,158.75
+2025-05-05 22:20:37,Substation-1,Normal,,95.28
+2025-05-05 22:22:37,Substation-2,Transformer Overheat,TR-210,134.33
+2025-05-05 22:34:37,Substation-10,Overvoltage,OV-501,81.49
+2025-05-05 22:46:37,Substation-9,Line Fault,LF-388,65.0
+2025-05-05 22:48:37,Substation-1,Normal,,63.87
+2025-05-05 22:52:37,Substation-7,Undervoltage,UV-402,71.01
+2025-05-05 22:52:37,Substation-6,Normal,,151.36
+2025-05-05 22:55:37,Substation-4,Normal,,86.53
+2025-05-05 23:02:37,Substation-10,Breaker Tripped,BR-305,96.25
+2025-05-05 23:08:37,Substation-2,Breaker Tripped,BR-305,63.58
+2025-05-05 23:21:37,Substation-1,Line Fault,LF-388,105.89
+2025-05-05 23:26:37,Substation-5,Line Fault,LF-388,57.34
+2025-05-05 23:41:37,Substation-3,Normal,,174.13
+2025-05-05 23:44:37,Substation-7,Normal,,162.42
+2025-05-05 23:56:37,Substation-9,Transformer Overheat,TR-210,123.75
+2025-05-06 00:00:37,Substation-5,Line Fault,LF-388,77.7
+2025-05-06 00:10:37,Substation-4,Normal,,199.76
+2025-05-06 00:12:37,Substation-7,Line Fault,LF-388,120.91
+2025-05-06 00:17:37,Substation-4,Breaker Tripped,BR-305,179.76
+2025-05-06 00:33:37,Substation-6,Breaker Tripped,BR-305,91.63
+2025-05-06 00:35:37,Substation-9,Normal,,193.41
+2025-05-06 00:47:37,Substation-1,Transformer Overheat,TR-210,189.66
+2025-05-06 00:55:37,Substation-5,Overvoltage,OV-501,61.42
+2025-05-06 00:57:37,Substation-1,Line Fault,LF-388,150.8
+2025-05-06 01:18:37,Substation-3,Normal,,173.52
+2025-05-06 01:28:37,Substation-1,Normal,,77.07
+2025-05-06 01:39:37,Substation-4,Normal,,180.53
+2025-05-06 01:50:37,Substation-3,Transformer Overheat,TR-210,140.15
+2025-05-06 01:52:37,Substation-8,Normal,,168.82
+2025-05-06 01:53:37,Substation-10,Breaker Tripped,BR-305,100.41
+2025-05-06 02:09:37,Substation-3,Breaker Tripped,BR-305,179.58
+2025-05-06 02:13:37,Substation-7,Normal,,181.02
+2025-05-06 02:15:37,Substation-3,Normal,,180.95
+2025-05-06 02:20:37,Substation-9,Normal,,110.09
+2025-05-06 02:22:37,Substation-8,Normal,,112.94
+2025-05-06 02:22:37,Substation-7,Frequency Drift,FD-112,79.94
+2025-05-06 02:23:37,Substation-1,Transformer Overheat,TR-210,153.26
+2025-05-06 02:27:37,Substation-6,Normal,,58.0
+2025-05-06 02:28:37,Substation-4,Normal,,60.3
+2025-05-06 02:46:37,Substation-7,Normal,,174.53
+2025-05-06 02:48:37,Substation-1,Normal,,138.12
+2025-05-06 02:55:37,Substation-7,Line Fault,LF-388,198.07
+2025-05-06 03:03:37,Substation-9,Overload,OL-799,147.24
+2025-05-06 03:09:37,Substation-4,Normal,,103.34
+2025-05-06 03:46:37,Substation-3,Undervoltage,UV-402,153.39
+2025-05-06 03:52:37,Substation-7,Normal,,150.44
+2025-05-06 04:02:37,Substation-8,Breaker Tripped,BR-305,105.9
+2025-05-06 04:24:37,Substation-4,Line Fault,LF-388,158.54
+2025-05-06 04:29:37,Substation-8,Normal,,195.94
+2025-05-06 04:56:37,Substation-8,Transformer Overheat,TR-210,141.24
+2025-05-06 04:59:37,Substation-7,Frequency Drift,FD-112,179.18
+2025-05-06 05:24:37,Substation-9,Normal,,112.45
+2025-05-06 05:25:37,Substation-9,Frequency Drift,FD-112,132.62
+2025-05-06 05:25:37,Substation-10,Normal,,69.29
+2025-05-06 05:25:37,Substation-1,Line Fault,LF-388,154.41
+2025-05-06 05:27:37,Substation-7,Normal,,73.82
+2025-05-06 05:34:37,Substation-2,Overload,OL-799,141.46
+2025-05-06 06:04:37,Substation-4,Breaker Tripped,BR-305,190.31
+2025-05-06 06:15:37,Substation-1,Breaker Tripped,BR-305,171.58
+2025-05-06 06:17:37,Substation-2,Undervoltage,UV-402,146.92
+2025-05-06 06:41:37,Substation-10,Normal,,167.2
+2025-05-06 06:46:37,Substation-5,Normal,,128.87
+2025-05-06 07:02:37,Substation-9,Breaker Tripped,BR-305,74.46
