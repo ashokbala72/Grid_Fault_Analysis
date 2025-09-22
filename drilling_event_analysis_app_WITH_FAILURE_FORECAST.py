@@ -61,23 +61,6 @@ This AI-powered drilling event analysis application helps engineers and operator
 - Faster reporting through automated summaries
 - Preventive failure alerts to avoid unplanned shutdowns
 ---
-### 🛠️ Making This App Production-Ready
-To move from prototype to production:
-1. **Backend**
-   - Integrate with real-time log ingestion pipeline (Kafka, REST API, etc.)
-   - Use persistent storage (e.g., PostgreSQL) instead of transient CSVs
-2. **AI Layer**
-   - Add retry logic, caching, and rate limit handling for GenAI calls
-   - Use fine-tuned models for domain-specific accuracy if needed
-3. **Frontend**
-   - Add user authentication (e.g., Streamlit Auth, OAuth)
-   - Deploy securely on Streamlit Cloud, Azure, or AWS (using HTTPS and access control)
-4. **Monitoring**
-   - Add logging, alerting, and performance tracking (e.g., with Prometheus + Grafana)
-5. **Validation**
-   - Validate GenAI output with human-in-the-loop review initially
-   - Benchmark performance on real-world historical data
----
 ℹ️ Designed to serve drilling engineers, operations analysts, and reliability managers.
 """)
 
@@ -85,6 +68,9 @@ with main_tabs[1]:
     uploaded_file = st.file_uploader("📁 Upload your simulated drilling event log", type=["csv", "xlsx"])
 
 if uploaded_file is not None:
+    # -----------------------------
+    # Load and clean dataset
+    # -----------------------------
     df = pd.read_csv(uploaded_file) if uploaded_file.name.endswith(".csv") else pd.read_excel(uploaded_file)
     df.columns = [col.strip() for col in df.columns]
 
@@ -99,6 +85,9 @@ if uploaded_file is not None:
         'Event Code': 'event_code'
     }, inplace=True)
 
+    # -----------------------------
+    # Filters
+    # -----------------------------
     all_wells = df["well_site"].unique().tolist()
     selected_wells = st.multiselect("Select Well Sites", options=["All"] + all_wells, default=["All"])
     if "All" not in selected_wells:
@@ -109,6 +98,9 @@ if uploaded_file is not None:
     if "All" not in selected_event_types:
         df = df[df["event_type"].isin(selected_event_types)]
 
+    # -----------------------------
+    # Exception detection logic
+    # -----------------------------
     def is_exception(row):
         return (
             row.get("event_type", "") in ["Overload", "Leak", "Vibration Surge"] or
@@ -146,6 +138,9 @@ if uploaded_file is not None:
         except Exception as e:
             return "GenAI error", str(e)
 
+    # -----------------------------
+    # Run exception analysis
+    # -----------------------------
     results = []
     analyze_all = st.checkbox("🔄 Analyze all exceptions (may be slow)", value=False)
     max_rows = None if analyze_all else 20
@@ -165,45 +160,143 @@ if uploaded_file is not None:
 
     result_df = pd.DataFrame(results) if results else pd.DataFrame()
 
+    # -----------------------------
+    # Sub-tabs
+    # -----------------------------
     sub_tabs = st.tabs([
         "🧾 Exceptions", "📊 Trends", "🔁 Repetitions", "🧠 Clustering", "📌 Summary", "📋 Insights", "🔮 Forecast"
     ])
 
+    # -----------------------------
+    # Exceptions Tab
+    # -----------------------------
     with sub_tabs[0]:
         st.subheader("🧾 Detected Exceptions")
-        st.dataframe(result_df)
-        st.download_button("📥 Download Exception Report", result_df.to_csv(index=False), "drilling_exceptions.csv")
+        if not result_df.empty:
+            st.dataframe(result_df)
+            st.download_button("📥 Download Exception Report", result_df.to_csv(index=False), "drilling_exceptions.csv")
+        else:
+            st.warning("⚠️ No exceptions detected.")
 
+    # -----------------------------
+    # Trends Tab
+    # -----------------------------
     with sub_tabs[1]:
         st.subheader("📊 Trends Over Time")
-        df['timestamp'] = pd.to_datetime(df['timestamp'])
-        df['event_type'] = df['event_type'].fillna("Unknown")
-        trend = df.groupby([pd.Grouper(key='timestamp', freq='D'), 'event_type']).size().unstack(fill_value=0)
-        st.line_chart(trend)
+        if not df.empty:
+            df['timestamp'] = pd.to_datetime(df['timestamp'], errors='coerce')
+            df['event_type'] = df['event_type'].fillna("Unknown")
+            trend = df.groupby([pd.Grouper(key='timestamp', freq='D'), 'event_type']).size().unstack(fill_value=0)
+            if not trend.empty:
+                st.line_chart(trend)
+            else:
+                st.warning("⚠️ No valid trend data.")
+        else:
+            st.warning("⚠️ No data available.")
 
+    # -----------------------------
+    # Repetitions Tab
+    # -----------------------------
     with sub_tabs[2]:
         st.subheader("🔁 Repetitions")
-        repeated = df.groupby(['well_site', 'event_type']).size().reset_index(name='count')
-        repeated = repeated[repeated['count'] > 1]
-        st.dataframe(repeated)
+        if not df.empty:
+            repeated = df.groupby(['well_site', 'event_type']).size().reset_index(name='count')
+            repeated = repeated[repeated['count'] > 1]
+            if not repeated.empty:
+                st.dataframe(repeated)
+            else:
+                st.info("No repeated events found.")
+        else:
+            st.warning("⚠️ No data available.")
 
+    # -----------------------------
+    # Clustering Tab
+    # -----------------------------
     with sub_tabs[3]:
-    st.subheader("🧠 Clustering by Duration")
+        st.subheader("🧠 Clustering by Duration")
+        df['duration'] = pd.to_numeric(df['duration'], errors='coerce')
+        features = df[['duration']].dropna().reset_index(drop=True)
 
-    # Ensure duration is numeric
-    df['duration'] = pd.to_numeric(df['duration'], errors='coerce')
+        if not features.empty:
+            scaler = StandardScaler()
+            scaled = scaler.fit_transform(features)
 
-    # Drop NaN and reset index
-    features = df[['duration']].dropna().reset_index(drop=True)
+            kmeans = KMeans(n_clusters=3, random_state=42, n_init=10)
+            clusters = kmeans.fit_predict(scaled)
 
-    if not features.empty:
-        scaler = StandardScaler()
-        scaled = scaler.fit_transform(features)
+            df.loc[features.index, 'cluster'] = clusters
+            st.dataframe(df[['well_site', 'event_type', 'duration', 'cluster']])
+        else:
+            st.warning("⚠️ No valid numeric duration data available for clustering.")
 
-        kmeans = KMeans(n_clusters=3, random_state=42, n_init=10)
-        clusters = kmeans.fit_predict(scaled)
+    # -----------------------------
+    # Summary Tab
+    # -----------------------------
+    with sub_tabs[4]:
+        st.subheader("📌 GenAI Summary")
+        if not result_df.empty:
+            summary_prompt = (
+                f"As an AI drilling analyst, review {len(result_df)} exceptions. "
+                f"Highlight zones of concern, recurring issues, and urgent actions.\n\n"
+                f"Sample:\n{result_df[['event_type', 'zone', 'severity']].head(10).to_string(index=False)}"
+            )
+            try:
+                summary = client.chat.completions.create(
+                    model=DEPLOYMENT_NAME,
+                    messages=[{"role": "user", "content": summary_prompt}],
+                    max_tokens=250,
+                    temperature=0.4,
+                )
+                st.info(summary.choices[0].message.content)
+            except Exception as e:
+                st.warning(f"Summary error: {e}")
+        else:
+            st.info("No exceptions to summarize.")
 
-        df.loc[features.index, 'cluster'] = clusters
-        st.dataframe(df[['well_site', 'event_type', 'duration', 'cluster']])
-    else:
-        st.warning("⚠️ No valid numeric duration data available for clustering.")
+    # -----------------------------
+    # Insights Tab
+    # -----------------------------
+    with sub_tabs[5]:
+        st.subheader("📋 Manager's Insights")
+        if not result_df.empty:
+            insight_prompt = (
+                f"Give actionable insights for the following {len(result_df)} exception records "
+                f"to improve safety and reduce downtime.\n\n"
+                f"{result_df[['well_site', 'event_type', 'zone', 'severity']].head(10).to_string(index=False)}"
+            )
+            try:
+                insights = client.chat.completions.create(
+                    model=DEPLOYMENT_NAME,
+                    messages=[{"role": "user", "content": insight_prompt}],
+                    max_tokens=300,
+                    temperature=0.4,
+                )
+                st.success(insights.choices[0].message.content)
+            except Exception as e:
+                st.warning(f"Insight error: {e}")
+        else:
+            st.info("No insights to generate.")
+
+    # -----------------------------
+    # Forecast Tab
+    # -----------------------------
+    with sub_tabs[6]:
+        st.subheader("🔮 Forecast Future Drilling Risks")
+        if not df.empty:
+            forecast_prompt = (
+                f"You are a predictive drilling analyst. Forecast risks for the next 30 days and "
+                f"recommend inventory or safety actions.\n\n"
+                f"Recent Drilling Events:\n{df[['timestamp','well_site','zone','event_type','breach','severity']].tail(25).to_string(index=False)}"
+            )
+            try:
+                forecast = client.chat.completions.create(
+                    model=DEPLOYMENT_NAME,
+                    messages=[{"role": "user", "content": forecast_prompt}],
+                    max_tokens=500,
+                    temperature=0.4,
+                )
+                st.markdown(forecast.choices[0].message.content)
+            except Exception as e:
+                st.error(f"❌ Forecast error: {e}")
+        else:
+            st.info("No data available for forecasting.")
