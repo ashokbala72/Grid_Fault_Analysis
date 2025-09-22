@@ -188,62 +188,22 @@ if uploaded_file is not None:
         st.dataframe(repeated)
 
     with sub_tabs[3]:
-        st.subheader("🧠 Clustering by Duration")
-        features = df[['duration']].fillna(0)
+    st.subheader("🧠 Clustering by Duration")
+
+    # Ensure duration is numeric
+    df['duration'] = pd.to_numeric(df['duration'], errors='coerce')
+
+    # Drop NaN and reset index
+    features = df[['duration']].dropna().reset_index(drop=True)
+
+    if not features.empty:
         scaler = StandardScaler()
         scaled = scaler.fit_transform(features)
-        kmeans = KMeans(n_clusters=3, random_state=42)
-        df['cluster'] = kmeans.fit_predict(scaled)
+
+        kmeans = KMeans(n_clusters=3, random_state=42, n_init=10)
+        clusters = kmeans.fit_predict(scaled)
+
+        df.loc[features.index, 'cluster'] = clusters
         st.dataframe(df[['well_site', 'event_type', 'duration', 'cluster']])
-
-    with sub_tabs[4]:
-        st.subheader("📌 GenAI Summary")
-        summary_prompt = (
-            f"As an AI drilling analyst, review {len(result_df)} exceptions. "
-            f"Highlight zones of concern, recurring issues, and urgent actions.\n\n"
-            f"Sample:\n{result_df[['event_type', 'zone', 'severity']].head(10).to_string(index=False)}"
-        )
-        try:
-            summary = client.chat.completions.create(
-                model=DEPLOYMENT_NAME,
-                messages=[{"role": "user", "content": summary_prompt}],
-                max_tokens=250,
-                temperature=0.4,
-            )
-            st.info(summary.choices[0].message.content)
-        except Exception as e:
-            st.warning(f"Summary error: {e}")
-
-    with sub_tabs[5]:
-        st.subheader("📋 Manager's Insights")
-        insight_prompt = (
-            f"Give actionable insights for the following {len(result_df)} exception records to improve safety and reduce downtime."
-            f"\n\n{result_df[['well_site', 'event_type', 'zone', 'severity']].head(10).to_string(index=False)}"
-        )
-        try:
-            insights = client.chat.completions.create(
-                model=DEPLOYMENT_NAME,
-                messages=[{"role": "user", "content": insight_prompt}],
-                max_tokens=300,
-                temperature=0.4,
-            )
-            st.success(insights.choices[0].message.content)
-        except Exception as e:
-            st.warning(f"Insight error: {e}")
-
-    with sub_tabs[6]:
-        st.subheader("🔮 Forecast Future Drilling Risks")
-        forecast_prompt = (
-            f"You are a predictive drilling analyst. Forecast risks for the next 30 days and recommend inventory or safety actions.\n\n"
-            f"Recent Drilling Events:\n{df[['timestamp','well_site','zone','event_type','breach','severity']].tail(25).to_string(index=False)}"
-        )
-        try:
-            forecast = client.chat.completions.create(
-                model=DEPLOYMENT_NAME,
-                messages=[{"role": "user", "content": forecast_prompt}],
-                max_tokens=500,
-                temperature=0.4,
-            )
-            st.markdown(forecast.choices[0].message.content)
-        except Exception as e:
-            st.error(f"❌ Forecast error: {e}")
+    else:
+        st.warning("⚠️ No valid numeric duration data available for clustering.")
