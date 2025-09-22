@@ -293,7 +293,7 @@ if uploaded_file is not None:
                 forecast = client.chat.completions.create(
                     model=DEPLOYMENT_NAME,
                     messages=[{"role": "user", "content": forecast_prompt}],
-                    max_tokens=500,
+                    max_tokens=1500,
                     temperature=0.4,
                 )
                 st.markdown(forecast.choices[0].message.content)
