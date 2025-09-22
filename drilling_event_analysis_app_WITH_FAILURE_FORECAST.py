@@ -210,12 +210,12 @@ if uploaded_file is not None:
             st.warning("⚠️ No data available.")
 
     # -----------------------------
-    # Clustering Tab
+    # Clustering Tab (fixed)
     # -----------------------------
     with sub_tabs[3]:
         st.subheader("🧠 Clustering by Duration")
         df['duration'] = pd.to_numeric(df['duration'], errors='coerce')
-        features = df[['duration']].dropna().reset_index(drop=True)
+        features = df[['duration']].dropna()  # keep original indices
 
         if not features.empty:
             scaler = StandardScaler()
@@ -224,6 +224,7 @@ if uploaded_file is not None:
             kmeans = KMeans(n_clusters=3, random_state=42, n_init=10)
             clusters = kmeans.fit_predict(scaled)
 
+            # Assign back using original indices
             df.loc[features.index, 'cluster'] = clusters
             st.dataframe(df[['well_site', 'event_type', 'duration', 'cluster']])
         else:
